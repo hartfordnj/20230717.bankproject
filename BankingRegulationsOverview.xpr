@@ -154,6 +154,26 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>reg_or_oregon_trust_code.dita</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Project to  PDF - based on HTML5 &amp; CSS</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>val.dita</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -222,16 +242,16 @@
                                 <field name="filters">
                                     <ditavalFilters>
                                         <field name="useDitavalFilePath">
-                                            <Boolean>false</Boolean>
+                                            <Boolean>true</Boolean>
                                         </field>
                                         <field name="useAppliedConditionSet">
-                                            <Boolean>true</Boolean>
+                                            <Boolean>false</Boolean>
                                         </field>
                                         <field name="appliedConditionSet">
                                             <null/>
                                         </field>
                                         <field name="ditavalFilePath">
-                                            <null/>
+                                            <String>file:/C:/Users/TheGi/Desktop/20230717.bankproject/wa-only.ditaval</String>
                                         </field>
                                         <field name="simpleFiltersList">
                                             <list/>
@@ -276,6 +296,29 @@
                                             </field>
                                             <field name="value">
                                                 <String>C:\Users\TheGi\Desktop\20230717.bankproject\styles.css</String>
+                                            </field>
+                                            <field name="defaultValue">
+                                                <null/>
+                                            </field>
+                                            <field name="type">
+                                                <Integer>2</Integer>
+                                            </field>
+                                            <field name="possibleValues">
+                                                <null/>
+                                            </field>
+                                            <field name="possibleValuesDescriptions">
+                                                <null/>
+                                            </field>
+                                        </ditaParameter>
+                                        <ditaParameter>
+                                            <field name="name">
+                                                <String>dita.input.valfile</String>
+                                            </field>
+                                            <field name="description">
+                                                <null/>
+                                            </field>
+                                            <field name="value">
+                                                <String>${pd}/val.ditaval</String>
                                             </field>
                                             <field name="defaultValue">
                                                 <null/>
