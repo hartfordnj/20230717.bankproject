@@ -134,6 +134,26 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>val.ditaval</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Project to  PDF - based on HTML5 &amp; CSS</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>val.dita</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -303,7 +323,7 @@
                                     </list>
                                 </field>
                                 <field name="jvmArgs">
-                                    <String></String>
+                                    <String>-Dargs.disable.security.checks=yes</String>
                                 </field>
                                 <field name="useCustomJavaHome">
                                     <Boolean>false</Boolean>
