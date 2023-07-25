@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?><css:root xmlns:chfox="http://www.oxygenxml.com/chemistry/extensions/fop" xmlns:css="http://www.w3.org/1998/CSS" xmlns:ditaarch="ditaarch" xmlns:nd="nd"><css:pages><css:page><css:footnote><css:property name="border-top-style" value="solid"/><css:property name="border-top-color" value="black"/><css:property name="border-top-width" value="thin"/><css:property name="padding-top" value="8pt"/></css:footnote></css:page><css:page><css:property name="padding-top" value="0.2em"/><css:property name="padding-bottom" value="0.2em"/><css:property name="width" value="8.5in"/><css:property name="height" value="11.0in"/><css:property name="margin-top" value="1in"/><css:property name="margin-right" value="1in"/><css:property name="margin-left" value="1in"/><css:property name="margin-bottom" value="1in"/></css:page><css:page><css:property name="font-size" value="8pt"/></css:page><css:page><css:property name="margin-top" value="0.25in"/><css:property name="margin-right" value="0.25in"/><css:property name="margin-left" value="0.25in"/><css:property name="margin-bottom" value="0.25in"/></css:page><css:page pseudo="left "><css:top-left><css:property name="content"><css:string name="maptitle" position="first"/><css:string name="parttitle" position="first"/><css:string name="chaptertitle" position="first"/><css:string name="sectiontitle" position="first"/><css:text> | </css:text><css:counter format="decimal" name="page"/></css:property></css:top-left></css:page><css:page pseudo="right "><css:top-right><css:property name="content"><css:string name="maptitle" position="first"/><css:string name="parttitle" position="first"/><css:string name="chaptertitle" position="first"/><css:string name="sectiontitle" position="first"/><css:text> | </css:text><css:counter format="decimal" name="page"/></css:property></css:top-right></css:page><css:page pseudo="blank "><css:top-left><css:property name="content"/></css:top-left><css:top-right><css:property name="content"/></css:top-right></css:page><css:page name="front-page"><css:top-left-corner><css:property name="content"/></css:top-left-corner><css:top-left><css:property name="content"/></css:top-left><css:top-center><css:property name="content"/></css:top-center><css:top-right><css:property name="content"/></css:top-right><css:top-right-corner><css:property name="content"/></css:top-right-corner><css:bottom-left-corner><css:property name="content"/></css:bottom-left-corner><css:bottom-left><css:property name="content"/></css:bottom-left><css:bottom-center><css:property name="content"/></css:bottom-center><css:bottom-right><css:property name="content"/></css:bottom-right><css:bottom-right-corner><css:property name="content"/></css:bottom-right-corner></css:page><css:page name="table-of-contents"><css:top-left><css:property name="content"/></css:top-left><css:top-center><css:property name="content"/></css:top-center><css:top-right><css:property name="content"/></css:top-right><css:bottom-left><css:property name="content"/></css:bottom-left><css:bottom-center><css:property name="content"/></css:bottom-center><css:bottom-right><css:property name="content"/></css:bottom-right></css:page><css:page name="index"><css:top-left-corner><css:property name="content"/></css:top-left-corner><css:top-left><css:property name="content"/></css:top-left><css:top-right><css:property name="content"/></css:top-right><css:top-right-corner><css:property name="content"/></css:top-right-corner><css:top-center><css:property name="content"/></css:top-center><css:bottom-left-corner><css:property name="content"/></css:bottom-left-corner><css:bottom-left><css:property name="content"/></css:bottom-left><css:bottom-right><css:property name="content"/></css:bottom-right><css:bottom-right-corner><css:property name="content"/></css:bottom-right-corner><css:bottom-center><css:property name="content"><css:counter format="lower-alpha" name="page"/></css:property><css:property name="font-size" value="11pt"/></css:bottom-center></css:page><css:page name="index"><css:property name="column-count" value="2"/><css:property name="column-fill" value="auto"/></css:page><css:page name="chapter"/><css:page name="matter-page"><css:top-left-corner><css:property name="content"/></css:top-left-corner><css:top-center><css:property name="content"/></css:top-center><css:top-right-corner><css:property name="content"/></css:top-right-corner><css:bottom-left-corner><css:property name="content"/></css:bottom-left-corner><css:bottom-left><css:property name="content"/></css:bottom-left><css:bottom-center><css:property name="content"/></css:bottom-center><css:bottom-right><css:property name="content"/></css:bottom-right><css:bottom-right-corner><css:property name="content"/></css:bottom-right-corner></css:page><css:page name="portrait-page"><css:property name="orientation" value="portrait"/></css:page><css:page name="chapter"><css:property name="oxy-initial-page-number" value="auto-odd"/></css:page><css:page name="table-of-contents" pseudo="left "><css:top-left><css:property name="content"><css:string name="toc-header" position="first"/><css:text> | </css:text><css:counter format="lower-roman" name="page"/></css:property></css:top-left></css:page><css:page name="table-of-contents" pseudo="right "><css:top-right><css:property name="content"><css:string name="toc-header" position="first"/><css:text> | </css:text><css:counter format="lower-roman" name="page"/></css:property></css:top-right></css:page><css:page name="matter-page" pseudo="left "><css:top-left><css:property name="content"><css:counter format="lower-roman" name="page"/></css:property></css:top-left></css:page><css:page name="matter-page" pseudo="right "><css:top-right><css:property name="content"><css:counter format="lower-roman" name="page"/></css:property></css:top-right></css:page><css:page name="landscape-page" pseudo="right "><css:property name="orientation" value="landscape"/><css:top-left><css:property name="content"/></css:top-left><css:top-center><css:property name="content"/></css:top-center><css:top-right><css:property name="content"/></css:top-right><css:right-bottom><css:property name="content"><css:reference-orientation-container-pmb reference-orientation="270"><css:string name="maptitle" position="first"/><css:string name="parttitle" position="first"/><css:string name="chaptertitle" position="first"/><css:string name="sectiontitle" position="first"/><css:text> | </css:text><css:counter format="decimal" name="page"/></css:reference-orientation-container-pmb></css:property><css:property name="vertical-align" value="middle"/><css:property name="text-align" value="right"/></css:right-bottom></css:page><css:page name="landscape-page" pseudo="left "><css:property name="orientation" value="landscape"/><css:top-left><css:property name="content"/></css:top-left><css:top-center><css:property name="content"/></css:top-center><css:top-right><css:property name="content"/></css:top-right><css:right-top><css:property name="content"><css:reference-orientation-container-pmb reference-orientation="270"><css:string name="maptitle" position="first"/><css:string name="parttitle" position="first"/><css:string name="chaptertitle" position="first"/><css:string name="sectiontitle" position="first"/><css:text> | </css:text><css:counter format="decimal" name="page"/></css:reference-orientation-container-pmb></css:property><css:property name="vertical-align" value="middle"/><css:property name="text-align" value="left"/></css:right-top></css:page><css:page name="table-of-contents" pseudo="first left "><css:top-left><css:property name="content"/></css:top-left></css:page><css:page name="table-of-contents" pseudo="first right "><css:top-right><css:property name="content"/></css:top-right></css:page><css:page name="chapter" pseudo="first left "><css:top-left><css:property name="content"/></css:top-left></css:page><css:page name="chapter" pseudo="first right "><css:top-right><css:property name="content"/></css:top-right></css:page></css:pages><css:page-sequence initial-page-number="1" page="chapter"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" hide-frontpage-toc-index-glossary="yes" lang="en" xtrf="file:/C:/Users/TheGi/Desktop/20230717.bankproject/project.ditamap">
+    <head css:border-bottom-color="white" css:border-bottom-style="solid" css:border-bottom-width="1pt" css:border-left-color="white" css:border-left-style="solid" css:border-left-width="1pt" css:border-right-color="white" css:border-right-style="solid" css:border-right-width="1pt" css:border-top-color="white" css:border-top-style="solid" css:border-top-width="1pt" css:display="none" css:padding-bottom="1em" css:padding-left="1em" css:padding-right="1em" css:padding-top="1em">
+        <meta charset="UTF-8" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px"/>
+        <meta content="(C) Copyright 2023" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="copyright"/>
+        <meta content="(C) Copyright 2023" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.rights.owner"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/C:/Program Files/Oxygen XML Editor 24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/C:/Program Files/Oxygen XML Editor 24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css" rel="stylesheet" type="text/css"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/C:/Program Files/Oxygen XML Editor 24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/C:/Program Files/Oxygen XML Editor 24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css" rel="stylesheet" type="text/css"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/C:/Program Files/Oxygen XML Editor 24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/C:/Program Files/Oxygen XML Editor 24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css" rel="stylesheet" type="text/css"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/C:/Users/TheGi/Desktop/20230717.bankproject/styles.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/C:/Users/TheGi/Desktop/20230717.bankproject/styles.css" rel="stylesheet" type="text/css"/>
+        <meta content="DITA-OT" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="generator"/>
+        <meta content="map" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.type"/>
+        <meta content="HTML5" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.format"/>
+        <meta content="en" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.language"/>
+        <title css:border-bottom-color="rgb(0 , 68 , 119)" css:border-bottom-style="solid" css:border-bottom-width="2px" css:color="rgb(0 , 34 , 68)" css:display="none" css:font-size="2.2em" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"/>
+    </head>
+    <body class="wh_topic_page" css:color="rgb(42 , 39 , 39)" css:display="block" css:font-family="Arial, sans-serif" css:font-size="14px" css:margin-left="auto" css:margin-right="auto">
+        <div class="wh_content_area" css:display="block">
+            <div class="wh_topic_body" css:display="block">
+                <div class="wh_topic_content" css:display="block">
+                    <div xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:ditaarchversion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" hide-frontpage-toc-index-glossary="yes" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><css:string-set name="toc-header"><css:text>Contents</css:text></css:string-set><div class="- front-page/front-page front-page" css:display="none" css:page="chapter"><div class="- front-page/front-page-title front-page-title" css:display="none" css:font-family="Arial, helvetica, sans-serif" css:font-size="2em" css:font-weight="bold" css:margin-top="3in" css:text-align="center"/></div><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title1" break-before="true" class="- topic/topic topic nested0 cover-page" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="always" id="unique_1" is-chapter="true" nd:nd-id="cover" oid="cover" outputclass="cover-page" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:color="rgb(0 , 191 , 111)" css:display="block" css:font-size="24px" css:margin-bottom="20px" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title1"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="1"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="1"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text/></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline"/></h1>
+                            <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                <img chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" href="file:/C:/Users/TheGi/Desktop/20230717.bankproject/images/pinevista-cover2%20(8.5%20×%2011%20in).png" id="unique_1_Connect_42_reg_cover_pine" nd:nd-id="reg_cover_pine" placement="inline" src="file:/C:/Users/TheGi/Desktop/20230717.bankproject/images/pinevista-cover2%20(8.5%20×%2011%20in).png"><css:content-on-element><css:uri extracted-image-height="1343" extracted-image-width="1024" uri="file:/C:/Users/TheGi/Desktop/20230717.bankproject/images/pinevista-cover2%20(8.5%20×%2011%20in).png"/></css:content-on-element></img>
+                            </div>
+                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title2" break-before="true" class="- topic/topic topic nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="always" id="unique_2" is-chapter="true" nd:nd-id="disclosure_informational_purpose" oid="disclosure_informational_purpose" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:color="rgb(0 , 191 , 111)" css:display="block" css:font-size="24px" css:margin-bottom="20px" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title2"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="2"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="2"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text/></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Disclosure and Informational
+                                Purpose</span></h1>
+                            <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The following document is a portfolio piece created by <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Nicholas J Hartford</strong>. It
+                                    presents a fictional financial institution, PineVista Bank, for
+                                    the explicit purpose of showcasing the creator's skills and
+                                    capabilities in the production of professional financial
+                                    literature.</p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">This brochure highlights common banking regulations that
+                                    clients of the fictional PineVista Bank might encounter during
+                                    their transactions. The information provided herein is solely
+                                    for illustrative and educational purposes. Any scenarios,
+                                    transactions, or potential situations described within are
+                                    completely hypothetical and are intended to aid in understanding
+                                    the listed banking regulations.</p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Any similarities to actual banks, banking regulations, or
+                                    financial practices are purely coincidental and not intended to
+                                    represent any real-world financial institution or situation.</p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Please note that the information in this brochure should not be
+                                    used as a basis for making any actual banking or financial
+                                    decisions. If you require financial advice or services, please
+                                    consult a licensed professional or trusted financial
+                                    institution.</p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">2023 | Nicholas J Hartford</p>
+                            </div>
+                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title3" break-before="true" class="- topic/topic topic nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="always" id="unique_3" is-chapter="true" nd:nd-id="Reg_DoddFrank" oid="Reg_DoddFrank" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:color="rgb(0 , 191 , 111)" css:display="block" css:font-size="24px" css:margin-bottom="20px" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title3"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="3"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="3"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text/></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Dodd-Frank Wall Street Reform and Consumer
+                                    Protection Act</span></h1>
+                            <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The Dodd-Frank Wall Street Reform and
+                                    Consumer Protection Act, commonly known as Dodd-Frank, is a
+                                    major piece of financial regulation legislation passed in 2010
+                                    in response to the financial crisis of 2008.</p>
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_3_Connect_42_ToPutItPlainly" nd:nd-id="ToPutItPlainly">
+                                    <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>To
+                                        Put It Plainly</h2>
+                                    <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
+                                        <li class="- topic/li li" css:display="list-item">Dodd-Frank
+                                            is a law passed in 2010 to keep the U.S. financial
+                                            industry in check and protect people's money.</li>
+                                        <li class="- topic/li li" css:display="list-item">It was
+                                            made in response to the 2008 financial crisis, which was
+                                            a time when a lot of people lost their money because of
+                                            risky financial practices by banks.</li>
+                                        <li class="- topic/li li" css:display="list-item">The law
+                                            sets rules for banks and other financial companies to
+                                            make sure they are not taking dangerous risks that could
+                                            harm people or the economy.</li>
+                                        <li class="- topic/li li" css:display="list-item">It also
+                                            made a new agency, the Consumer Financial Protection
+                                            Bureau, to specifically look out for ordinary people,
+                                            making sure they're treated fairly by banks and
+                                            lenders.</li>
+                                        <li class="- topic/li li" css:display="list-item">Overall,
+                                            the goal of Dodd-Frank is to make the financial system
+                                            safer and more transparent, so a big financial crisis
+                                            like the one in 2008 doesn't happen again.</li>
+                                    </ul>
+                                </section>
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_3_Connect_42_History" nd:nd-id="History">
+                                    <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>History</h2>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The Dodd-Frank
+                                        Wall Street Reform and Consumer Protection Act, colloquially
+                                        known as Dodd-Frank, was signed into law by President Barack
+                                        Obama on July 21, 2010. The Act represented a significant
+                                        legislative response to the financial crisis that had swept
+                                        across the United States and the rest of the world starting
+                                        in 2008.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The financial
+                                        crisis, triggered by the bursting of the housing bubble and
+                                        the subsequent collapse of complex financial products tied
+                                        to real estate, led to a severe global economic downturn. It
+                                        exposed numerous weaknesses and unethical practices in the
+                                        financial industry, including predatory lending, risky
+                                        trading practices, and a lack of transparency.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">In response to
+                                        the crisis, the U.S. government initiated a series of
+                                        financial reforms aimed at preventing a similar crisis in
+                                        the future. The Dodd-Frank Act was a key part of these
+                                        reforms. Named after its sponsors, U.S. Senator Christopher
+                                        J. Dodd and U.S. Representative Barney Frank, the Act sought
+                                        to decrease various risks in the financial system, improve
+                                        accountability and transparency in the financial industry,
+                                        end the notion of "too big to fail", and protect consumers
+                                        from deceptive financial practices.</p>
+                                </section>
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_3_Connect_42_ReasonForCreation" nd:nd-id="ReasonForCreation">
+                                    <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>Reason
+                                        for Creation</h2>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The Dodd-Frank
+                                        Act was born out of the necessity to curtail the risky
+                                        financial practices that had led to the financial crisis of
+                                        2008. The law's primary objectives were to prevent a
+                                        recurrence of a financial crisis of similar magnitude,
+                                        increase the transparency and stability of the financial
+                                        system, and protect consumers from abusive financial
+                                        practices.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The Act
+                                        addressed these goals through a range of regulatory
+                                        measures. For instance, it created agencies like the
+                                        Financial Stability Oversight Council (FSOC) to identify
+                                        risks to financial stability, and the Consumer Financial
+                                        Protection Bureau (CFPB) to protect consumers from deceptive
+                                        financial practices. It also instituted new rules on capital
+                                        reserves to reduce the risk of bank failures and established
+                                        regulations on derivatives and hedge funds to prevent
+                                        destabilizing speculation.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Furthermore, the
+                                        Act aimed to end the concept of "too big to fail" by
+                                        establishing procedures for the orderly liquidation of large
+                                        financial institutions that pose a significant risk to the
+                                        economy, thus avoiding taxpayer-funded bailouts. Dodd-Frank
+                                        also pushed for greater transparency and accountability in
+                                        the financial industry by introducing more comprehensive
+                                        reporting requirements and strengthening the role of
+                                        whistleblowers.</p>
+                                </section>
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_3_Connect_42_Impact" nd:nd-id="Impact">
+                                    <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>Consumer
+                                        and Business Impact</h2>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The Dodd-Frank
+                                        Act has had a profound impact on consumer and business
+                                        transactions. Many of these impacts were designed to protect
+                                        consumers, increase transparency, and reduce risk in the
+                                        financial system.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Here are some of
+                                        the most frequently impacted transactions:</p>
+                                    <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
+                                        <li class="- topic/li li" css:display="list-item">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Mortgage Lending:</strong> Dodd-Frank introduced
+                                                a series of regulations that affect both lenders and
+                                                borrowers. For instance, it created the "Ability to
+                                                Repay" rule that requires lenders to make a good
+                                                faith effort to determine whether borrowers can
+                                                afford their mortgage loans. This rule was intended
+                                                to prevent the risky lending practices that
+                                                contributed to the housing bubble and subsequent
+                                                financial crisis.</p>
+                                        </li>
+                                        <li class="- topic/li li" css:display="list-item">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Derivatives Trading:</strong> The Act brought
+                                                significant reform to the derivatives market, most
+                                                notably requiring that many types of derivatives be
+                                                traded on exchanges and cleared through central
+                                                clearinghouses. This increases transparency and
+                                                reduces the risk associated with these complex
+                                                financial instruments.</p>
+                                        </li>
+                                        <li class="- topic/li li" css:display="list-item">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Consumer Protection:</strong> The creation of the
+                                                Consumer Financial Protection Bureau (CFPB) under
+                                                Dodd-Frank significantly expanded consumer
+                                                protections. The CFPB is responsible for overseeing
+                                                and enforcing regulations on financial products and
+                                                services like credit cards, mortgages, and loans,
+                                                which have a direct impact on consumers.</p>
+                                        </li>
+                                        <li class="- topic/li li" css:display="list-item">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Capital Requirements:</strong> Dodd-Frank
+                                                introduced stricter capital requirements for banks,
+                                                which affects their lending practices. By requiring
+                                                banks to hold more capital, the law aims to ensure
+                                                that banks are more resilient to financial shocks
+                                                and less likely to require taxpayer-funded bailouts
+                                                in the event of a crisis.</p>
+                                        </li>
+                                    </ul>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">These changes
+                                        and restrictions, while designed to reduce risk and protect
+                                        consumers, have also introduced new challenges and costs for
+                                        financial institutions, which often pass these costs onto
+                                        their customers.</p>
+                                </section>
+                            </div>
+                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title4" break-before="true" class="- topic/topic topic nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="always" id="unique_4" is-chapter="true" nd:nd-id="Reg_GLBA" oid="Reg_GLBA" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:color="rgb(0 , 191 , 111)" css:display="block" css:font-size="24px" css:margin-bottom="20px" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title4"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="4"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="4"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text/></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Gramm-Leach-Bliley Act (GLBA)</span></h1>
+                            <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The Gramm-Leach-Bliley Act (GLBA), passed
+                                    in 1999, is a crucial piece of legislation that allows financial
+                                    institutions to offer a combination of banking, insurance, and
+                                    securities services.</p>
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_4_Connect_42_ToPutItPlainly" nd:nd-id="ToPutItPlainly">
+                                    <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>To
+                                        Put It Plainly</h2>
+                                    <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
+                                        <li class="- topic/li li" css:display="list-item">GLBA is a
+                                            law that was passed in 1999 to allow financial companies
+                                            to provide more types of services to customers.</li>
+                                        <li class="- topic/li li" css:display="list-item">Before
+                                            this law, a business could only offer banking,
+                                            insurance, or securities services. They couldn't do all
+                                            three.</li>
+                                        <li class="- topic/li li" css:display="list-item">GLBA
+                                            changed this, letting companies offer a mix of these
+                                            services.</li>
+                                        <li class="- topic/li li" css:display="list-item">This
+                                            created more competition among these companies but also
+                                            increased the risk, as they are now engaged in a wider
+                                            range of activities.</li>
+                                        <li class="- topic/li li" css:display="list-item">The goal
+                                            of GLBA was to modernize the financial industry, giving
+                                            customers more options and making operations more
+                                            efficient for companies.</li>
+                                    </ul>
+                                </section>
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_4_Connect_42_History" nd:nd-id="History">
+                                    <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>History</h2>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The
+                                        Gramm-Leach-Bliley Act (GLBA), also known as the Financial
+                                        Services Modernization Act, was signed into law in 1999.
+                                        Prior to GLBA, companies were confined to providing only one
+                                        type of financial service: banking, insurance, or
+                                        securities. This restriction had its roots in the
+                                        Glass-Steagall Act of 1933, a law enacted in the aftermath
+                                        of the Great Depression to reduce risk in the financial
+                                        sector by separating these services.</p>
+                                </section>
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_4_Connect_42_ReasonForCreation" nd:nd-id="ReasonForCreation">
+                                    <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>Reason
+                                        for Creation</h2>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The GLBA was
+                                        created to modernize the financial industry. By allowing the
+                                        integration of banking, insurance, and securities functions,
+                                        it aimed to increase efficiency and provide customers with a
+                                        broader range of services from a single institution. It was
+                                        also seen as a response to the changing dynamics of the
+                                        financial industry and growing international
+                                        competition.</p>
+                                </section>
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_4_Connect_42_Impact" nd:nd-id="Impact">
+                                    <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>Consumer
+                                        and Business Impact</h2>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The
+                                        Gramm-Leach-Bliley Act (GLBA) has had a profound impact on
+                                        both businesses and consumers. It changed the landscape of
+                                        the financial industry and introduced new risks and
+                                        opportunities.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Here are some of
+                                        the key areas of impact:</p>
+                                    <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
+                                        <li class="- topic/li li" css:display="list-item">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Financial Services Integration:</strong> GLBA has
+                                                allowed institutions to offer a combination of
+                                                banking, insurance, and securities services. This
+                                                has led to increased competition among providers,
+                                                which can benefit consumers through more options and
+                                                potentially lower prices. However, it has also
+                                                increased the complexity of managing these
+                                                integrated institutions.</p>
+                                        </li>
+                                        <li class="- topic/li li" css:display="list-item">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Risk
+                                                  Profile:</strong> The integration of different
+                                                financial functions allowed by the GLBA has
+                                                increased the risk profile of financial
+                                                institutions. By engaging in a wider range of
+                                                activities, institutions may be exposed to new types
+                                                of risk. This has implications for regulatory
+                                                oversight and the stability of the financial
+                                                system.</p>
+                                        </li>
+                                        <li class="- topic/li li" css:display="list-item">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Consumer Privacy:</strong> GLBA introduced
+                                                significant privacy regulations for financial
+                                                institutions, requiring them to provide customers
+                                                with privacy notices and the opportunity to opt out
+                                                of some sharing of personal information. This
+                                                represented an important step forward in consumer
+                                                data protection.</p>
+                                        </li>
+                                        <li class="- topic/li li" css:display="list-item">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Industry Consolidation:</strong> The deregulation
+                                                aspects of the GLBA led to consolidation in the
+                                                financial industry, as companies were able to expand
+                                                into new areas. This has resulted in larger, more
+                                                diverse financial institutions, which carry their
+                                                own set of challenges and risks.</p>
+                                        </li>
+                                    </ul>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Overall, the
+                                        GLBA has had significant impacts on the financial industry
+                                        and the customers it serves. These changes have introduced
+                                        both opportunities and challenges, and their effects
+                                        continue to be debated.</p>
+                                </section>
+                            </div>
+                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title5" break-before="true" class="- topic/topic topic nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="always" id="unique_5" is-chapter="true" nd:nd-id="Reg_BaselIII" oid="Reg_BaselIII" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:color="rgb(0 , 191 , 111)" css:display="block" css:font-size="24px" css:margin-bottom="20px" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title5"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="5"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="5"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text/></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Basel III Regulations</span></h1>
+                            <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Basel III is a set of international
+                                    banking regulations developed by the Basel Committee on Banking
+                                    Supervision (BCBS), aimed at improving the banking sector's
+                                    ability to handle financial and economic stress, improve risk
+                                    management, and strengthen banks' transparency.</p>
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_5_Connect_42_ToPutItPlainly" nd:nd-id="ToPutItPlainly">
+                                    <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>To
+                                        Put It Plainly</h2>
+                                    <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
+                                        <li class="- topic/li li" css:display="list-item">Basel III
+                                            is like a rulebook for banks all around the world,
+                                            telling them how much money they need to keep on hand in
+                                            case things go bad.</li>
+                                        <li class="- topic/li li" css:display="list-item">These
+                                            rules were put together by a group from different
+                                            countries after the 2008 financial crisis to make sure
+                                            banks are prepared for tough times.</li>
+                                        <li class="- topic/li li" css:display="list-item">The goal
+                                            is to prevent a situation where banks run out of money
+                                            and the government has to step in to bail them out.</li>
+                                        <li class="- topic/li li" css:display="list-item">Under
+                                            these rules, banks also have to be more open about their
+                                            business so that everyone knows what's going on and
+                                            risks can be spotted early.</li>
+                                        <li class="- topic/li li" css:display="list-item">In simple
+                                            words, Basel III tries to make banking safer and more
+                                            transparent for everyone.</li>
+                                    </ul>
+                                </section>
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_5_Connect_42_History" nd:nd-id="History">
+                                    <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>History</h2>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The
+                                        Sarbanes-Oxley Act (SOX) was signed into law on July 30,
+                                        2002. Its creation came in the wake of several high-profile
+                                        corporate scandals, including Enron, Tyco, and WorldCom,
+                                        that severely shook investor confidence in the financial
+                                        markets.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">These
+                                        corporations, once seen as highly successful and immensely
+                                        profitable, imploded spectacularly following revelations of
+                                        extensive accounting fraud. In the case of Enron, once the
+                                        seventh largest corporation in the U.S., the fallout was
+                                        dramatic - employees lost their jobs and their retirement
+                                        savings, investors lost billions, and trust in the corporate
+                                        world was deeply shaken.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">In response to
+                                        these scandals, U.S. Senator Paul Sarbanes and U.S.
+                                        Representative Michael Oxley introduced legislation aimed at
+                                        improving corporate governance and accountability. This
+                                        legislation, known as the Sarbanes-Oxley Act, was designed
+                                        to protect investors by improving the accuracy and
+                                        reliability of corporate disclosures and holding CEOs and
+                                        CFOs accountable for the financial statements of their
+                                        companies.</p>
+                                </section>
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_5_Connect_42_ReasonForCreation" nd:nd-id="ReasonForCreation">
+                                    <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>Reason
+                                        for Creation</h2>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Basel III was
+                                        created to address the issues in the banking system that
+                                        were exposed by the 2008 financial crisis. It aims to
+                                        improve the banking sector's ability to handle market
+                                        stress, enhance financial institutions' risk management
+                                        practices, and boost transparency in the banking sector. By
+                                        setting out higher and more forward-looking capital
+                                        requirements, Basel III aims to ensure that banks have a
+                                        strong capital base, which can absorb losses and continue
+                                        operations under financial and economic stress.</p>
+                                </section>
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_5_Connect_42_Impact" nd:nd-id="Impact">
+                                    <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>Consumer
+                                        and Business Impact</h2>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The Basel III
+                                        accords have significantly reshaped the banking industry
+                                        worldwide. They have introduced new standards and practices
+                                        aimed at improving the stability and integrity of the
+                                        financial system.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Here are some of
+                                        the key areas of impact:</p>
+                                    <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
+                                        <li class="- topic/li li" css:display="list-item">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Capital Requirements:</strong> Basel III
+                                                significantly increased the capital requirements for
+                                                banks. This has forced many institutions to raise
+                                                more capital, altering the financial structures of
+                                                banks. The higher capital requirements are intended
+                                                to make banks more resilient to losses, but they can
+                                                also potentially impact profitability and the
+                                                ability to lend.</p>
+                                        </li>
+                                        <li class="- topic/li li" css:display="list-item">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Liquidity Rules:</strong> The accords introduced
+                                                new liquidity rules that require banks to hold a
+                                                certain level of high-quality liquid assets. This
+                                                has influenced the types of assets banks hold and
+                                                has increased the costs of banking operations.</p>
+                                        </li>
+                                        <li class="- topic/li li" css:display="list-item">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Risk
+                                                  Management:</strong> Basel III has led to changes
+                                                in how banks approach risk management. Banks are now
+                                                required to consider various types of risk
+                                                (including systemic and liquidity risk) in more
+                                                depth, which has affected their risk management
+                                                systems and practices.</p>
+                                        </li>
+                                        <li class="- topic/li li" css:display="list-item">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Business Models:</strong> In response to Basel
+                                                III, many banks have had to revise their business
+                                                models. For example, some have moved away from
+                                                riskier activities to meet the new capital and
+                                                liquidity requirements. This has had a variety of
+                                                effects, from the types of services banks offer to
+                                                the fees they charge.</p>
+                                        </li>
+                                    </ul>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">While the intent
+                                        of Basel III is to improve the stability of the banking
+                                        system, it has also introduced new challenges for banks.
+                                        Critics argue that the increased costs and constraints can
+                                        impact banking services and even potentially contribute to
+                                        financial exclusion.</p>
+                                </section>
+                            </div>
+                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title6" break-before="true" class="- topic/topic topic nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="always" id="unique_6" is-chapter="true" nd:nd-id="Reg_SOX" oid="Reg_SOX" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:color="rgb(0 , 191 , 111)" css:display="block" css:font-size="24px" css:margin-bottom="20px" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title6"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="6"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="6"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text/></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Sarbanes-Oxley Act (SOX)</span></h1>
+                            <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The Sarbanes-Oxley Act, often known as
+                                    SOX, is a United States federal law enacted in 2002 that sets
+                                    standards for all U.S. public company boards, management, and
+                                    public accounting firms.</p>
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_6_Connect_42_ToPutItPlainly" nd:nd-id="ToPutItPlainly">
+                                    <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>To
+                                        Put It Plainly</h2>
+                                    <ol class="- topic/ol ol" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
+                                        <li class="- topic/li li" css:display="list-item">The
+                                            Sarbanes-Oxley Act, commonly known as SOX, was
+                                            established in 2002 in the wake of financial scandals
+                                            like Enron and WorldCom, where significant accounting
+                                            fraud occurred.</li>
+                                        <li class="- topic/li li" css:display="list-item">This law
+                                            applies to all publicly traded U.S. companies, including
+                                            their management and accounting firms, aiming to
+                                            increase transparency and protect investors.</li>
+                                        <li class="- topic/li li" css:display="list-item">SOX sets
+                                            numerous standards and requirements for company boards,
+                                            management, and accounting firms. It imposes more
+                                            stringent record-keeping requirements, mandates the
+                                            independence of the firms that audit public companies,
+                                            and establishes the Public Company Accounting Oversight
+                                            Board (PCAOB) to oversee these auditors.</li>
+                                        <li class="- topic/li li" css:display="list-item">The Act
+                                            was designed primarily to protect investors by improving
+                                            the accuracy and reliability of corporate disclosures,
+                                            thus fostering trust in the U.S. financial system.</li>
+                                        <li class="- topic/li li" css:display="list-item">Failure to
+                                            comply with SOX can result in severe penalties,
+                                            including hefty fines and imprisonment. It holds top
+                                            management accountable for the accuracy of financial
+                                            information, with the CEO and CFO required to certify
+                                            the financial statements.</li>
+                                    </ol>
+                                </section>
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_6_Connect_42_History" nd:nd-id="History">
+                                    <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>History</h2>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The
+                                        Sarbanes-Oxley Act (SOX) was signed into law on July 30,
+                                        2002. Its creation came in the wake of several high-profile
+                                        corporate scandals, including Enron, Tyco, and WorldCom,
+                                        that severely shook investor confidence in the financial
+                                        markets.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">These
+                                        corporations, once seen as highly successful and immensely
+                                        profitable, imploded spectacularly following revelations of
+                                        extensive accounting fraud. In the case of Enron, once the
+                                        seventh largest corporation in the U.S., the fallout was
+                                        dramatic - employees lost their jobs and their retirement
+                                        savings, investors lost billions, and trust in the corporate
+                                        world was deeply shaken.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">In response to
+                                        these scandals, U.S. Senator Paul Sarbanes and U.S.
+                                        Representative Michael Oxley introduced legislation aimed at
+                                        improving corporate governance and accountability. This
+                                        legislation, known as the Sarbanes-Oxley Act, was designed
+                                        to protect investors by improving the accuracy and
+                                        reliability of corporate disclosures and holding CEOs and
+                                        CFOs accountable for the financial statements of their
+                                        companies.</p>
+                                </section>
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_6_Connect_42_ReasonForCreation" nd:nd-id="ReasonForCreation">
+                                    <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>Reason
+                                        for Creation</h2>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The
+                                        Sarbanes-Oxley Act (SOX) was enacted in response to a series
+                                        of high-profile corporate and accounting scandals in the
+                                        early 2000s, including those involving companies like Enron,
+                                        WorldCom, and Tyco. These scandals, which led to significant
+                                        financial losses for investors and decreased public trust in
+                                        the stock market, exposed various kinds of accounting fraud
+                                        and corporate malfeasance.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">SOX was designed
+                                        to address these issues by increasing transparency in
+                                        corporate governance and accounting, enhancing the accuracy
+                                        of financial reporting, and establishing new or enhanced
+                                        standards for all U.S. public company boards, management,
+                                        and public accounting firms. The aim was to protect
+                                        investors and restore trust in the financial markets.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Some of the key
+                                        provisions of the act include stricter rules for financial
+                                        disclosures from corporations, increased accountability for
+                                        corporate executives, greater independence for company
+                                        auditors, and stiffer penalties for corporate and accounting
+                                        fraud.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">In essence, SOX
+                                        aimed to reduce the possibility of corporate fraud by
+                                        enhancing corporate responsibility, improving financial
+                                        disclosures, and combatting corporate and accounting fraud.
+                                        The law provides a more robust regulatory framework for
+                                        corporate governance and aims to restore and maintain
+                                        investor confidence in the stock market.</p>
+                                </section>
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_6_Connect_42_Impact" nd:nd-id="Impact">
+                                    <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>Consumer
+                                        and Business Impact</h2>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The
+                                        Sarbanes-Oxley Act has had a significant impact on corporate
+                                        governance, particularly for publicly traded companies. The
+                                        provisions of SOX have implications for both businesses and
+                                        indirectly, consumers.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Here are some of
+                                        the major impacts:</p>
+                                    <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
+                                        <li class="- topic/li li" css:display="list-item">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Corporate Transparency:</strong> SOX requires
+                                                greater transparency in financial reporting, leading
+                                                to a higher level of confidence and trust for
+                                                investors and the public. Companies must now
+                                                disclose more information about their financial
+                                                situation, making it easier for investors and
+                                                consumers to make informed decisions.</p>
+                                        </li>
+                                        <li class="- topic/li li" css:display="list-item">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Accountability of Executives:</strong> SOX holds
+                                                corporate executives accountable for the accuracy of
+                                                financial statements. Executives must personally
+                                                attest to the accuracy of their company's financial
+                                                reports, making corporate governance more robust and
+                                                decreasing the chances of financial fraud.</p>
+                                        </li>
+                                        <li class="- topic/li li" css:display="list-item">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Independent Audits:</strong> SOX mandates more
+                                                independence for external auditors. This means the
+                                                audits are more reliable, as they are less likely to
+                                                be influenced by the companies they are
+                                                auditing.</p>
+                                        </li>
+                                        <li class="- topic/li li" css:display="list-item">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Penalties for Fraud:</strong> SOX imposes severe
+                                                penalties for fraudulent financial activity, which
+                                                has led to a decrease in corporate fraud cases. This
+                                                serves as a strong deterrent for corporations and
+                                                ensures a more trustworthy business environment for
+                                                consumers.</p>
+                                        </li>
+                                    </ul>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">These changes
+                                        have led to increased confidence and trust in corporate
+                                        governance and financial reporting. However, they have also
+                                        resulted in increased costs for companies, which can impact
+                                        their profitability and potentially, the prices they charge
+                                        consumers.</p>
+                                </section>
+                            </div>
+                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title7" break-before="true" class="- topic/topic topic nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="always" id="unique_7" is-chapter="true" nd:nd-id="Reg_BSA" oid="Reg_BSA" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:color="rgb(0 , 191 , 111)" css:display="block" css:font-size="24px" css:margin-bottom="20px" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title7"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="7"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="7"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text/></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Bank Secrecy Act (BSA)</span></h1>
+                            <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The Bank Secrecy Act (BSA), passed in
+                                    1970, is a U.S. law aimed at preventing and detecting money
+                                    laundering, tax evasion, and other financial crimes.</p>
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_7_Connect_42_ToPutItPlainly" nd:nd-id="ToPutItPlainly">
+                                    <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>To
+                                        Put It Plainly</h2>
+                                    <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
+                                        <li class="- topic/li li" css:display="list-item">The BSA is
+                                            a law enacted in 1970 to prevent criminals from using
+                                            banks to hide their illicit activities.</li>
+                                        <li class="- topic/li li" css:display="list-item">The law
+                                            requires banks to keep records of cash transactions over
+                                            $10,000 and to report suspicious activities that could
+                                            be related to money laundering or fraud.</li>
+                                        <li class="- topic/li li" css:display="list-item">The BSA
+                                            also established the requirement for banks to know their
+                                            customers, which helps prevent identity theft and other
+                                            forms of fraud.</li>
+                                        <li class="- topic/li li" css:display="list-item">Over the
+                                            years, the BSA has been enhanced by other laws such as
+                                            the USA PATRIOT Act to bolster its effectiveness in
+                                            combating financial crimes.</li>
+                                        <li class="- topic/li li" css:display="list-item">The BSA's
+                                            primary goal is to create an unbroken paper trail for
+                                            investigators to follow in the pursuit of criminals and
+                                            their illegal activities.</li>
+                                    </ul>
+                                </section>
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_7_Connect_42_History" nd:nd-id="History">
+                                    <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>History</h2>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The Bank Secrecy
+                                        Act, also known as the Currency and Foreign Transactions
+                                        Reporting Act, was established in 1970 as part of an effort
+                                        to combat money laundering and other financial crimes. The
+                                        Act requires financial institutions to assist U.S.
+                                        government agencies in detecting and preventing these types
+                                        of illegal activities.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Over the years,
+                                        the BSA has been enhanced by additional legislation, most
+                                        notably the USA PATRIOT Act in 2001, which expanded the
+                                        Act's provisions in response to the September 11 terrorist
+                                        attacks.</p>
+                                </section>
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_7_Connect_42_ReasonForCreation" nd:nd-id="ReasonForCreation">
+                                    <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>Reason
+                                        for Creation</h2>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The BSA was
+                                        created to provide U.S. authorities with the tools necessary
+                                        to combat financial crimes, particularly money laundering
+                                        and tax evasion. The Act requires banks and other financial
+                                        institutions to maintain records and file reports on certain
+                                        types of transactions and activities, which could provide
+                                        crucial evidence in investigations of financial crime.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The Act also
+                                        introduced the requirement for banks to know their
+                                        customers, a crucial component in preventing financial fraud
+                                        and identity theft. Over time, with enhancements through
+                                        additional legislation, the BSA's reach has expanded,
+                                        furthering its original objective of detecting and deterring
+                                        financial crimes.</p>
+                                </section>
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_7_Connect_42_Impact" nd:nd-id="Impact">
+                                    <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>Consumer
+                                        and Business Impact</h2>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The Bank Secrecy
+                                        Act has had a significant impact on consumers and
+                                        businesses. While primarily targeted at detecting and
+                                        preventing financial crimes, the regulations introduced by
+                                        the Act also affect everyday financial transactions.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Here are some of
+                                        the most frequently impacted transactions:</p>
+                                    <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
+                                        <li class="- topic/li li" css:display="list-item">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Cash
+                                                  Transactions:</strong> The Act requires all
+                                                financial institutions to report cash transactions
+                                                exceeding $10,000. This impacts both individuals and
+                                                businesses making large cash transactions, as they
+                                                may need to provide additional information to the
+                                                bank.</p>
+                                        </li>
+                                        <li class="- topic/li li" css:display="list-item">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Customer Verification:</strong> The BSA
+                                                introduced "Know Your Customer" regulations. These
+                                                require financial institutions to verify the
+                                                identity of individuals opening accounts, which
+                                                impacts the account opening process for consumers
+                                                and businesses.</p>
+                                        </li>
+                                        <li class="- topic/li li" css:display="list-item">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Suspicious Activity Reporting:</strong> Financial
+                                                institutions are required to report suspicious
+                                                activities that might signify money laundering, tax
+                                                evasion, or other financial crimes. This can impact
+                                                consumers and businesses if their transactions are
+                                                deemed suspicious and reported.</p>
+                                        </li>
+                                    </ul>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">While these
+                                        regulations can create additional administrative steps for
+                                        consumers and businesses, they serve a critical role in
+                                        safeguarding the financial system from illegal
+                                        activities.</p>
+                                </section>
+                            </div>
+                        </article></div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html></css:page-sequence></css:root>

@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #2a2727;
+}
+
+h1 {
+    font-size: 2em;
+    color: #2a2727;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: #FB9C6C;
+}
+
+p {
+    margin-bottom: 1em;
+}
+
+a {
+    color: #D55121;
+    text-decoration: none;
+}
+
+*[class ~= "map/topicref"][is-chapter]:not([is-part]) > *[class ~= "map/topicmeta"] > *[class ~= "topic/navtitle"]:before {
+  content: "";
+}
+
+*[class ~= "topic/topic"][is-chapter]:not([is-part]) > *[class ~= "topic/title"]:before {
+  content: "";
+}
+
+*[outputclass~="large-cover"] {
+    width: 100%;
+    height: auto;
+}
+
+@media print {
+	@page {
+		margin: 0.75in;
+	}
+}
+
+@page chapter{
+  -oxy-initial-page-number: auto-odd;
+}
+    
+.topic {
+    page-break-after: always;
+}
+
+h1.title {
+    font-size: 24px;
+    color: #00Bf6f;
+    margin-bottom: 20px;
+}
+		
+

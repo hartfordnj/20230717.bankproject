@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="Reg_BaselIII">
+  <title>Basel III Regulations</title>
+  
+  <shortdesc>Basel III is a set of international banking regulations developed by the Basel Committee on Banking Supervision (BCBS), aimed at improving the banking sector's ability to handle financial and economic stress, improve risk management, and strengthen banks' transparency.</shortdesc>
+  
+
+  
+  <body>
+    
+    <section id="ToPutItPlainly">
+      <title>To Put It Plainly</title>
+      <ul>
+        <li>Basel III is like a rulebook for banks all around the world, telling them how much money they need to keep on hand in case things go bad.</li>
+        <li>These rules were put together by a group from different countries after the 2008 financial crisis to make sure banks are prepared for tough times.</li>
+        <li>The goal is to prevent a situation where banks run out of money and the government has to step in to bail them out.</li>
+        <li>Under these rules, banks also have to be more open about their business so that everyone knows what's going on and risks can be spotted early.</li>
+        <li>In simple words, Basel III tries to make banking safer and more transparent for everyone.</li>
+      </ul>
+    </section>
+    
+    <section id="History">
+      <title>History</title>
+      <p>The Sarbanes-Oxley Act (SOX) was signed into law on July 30, 2002. Its creation came in the wake of several high-profile corporate scandals, including Enron, Tyco, and WorldCom, that severely shook investor confidence in the financial markets.</p>
+      <p>These corporations, once seen as highly successful and immensely profitable, imploded spectacularly following revelations of extensive accounting fraud. In the case of Enron, once the seventh largest corporation in the U.S., the fallout was dramatic - employees lost their jobs and their retirement savings, investors lost billions, and trust in the corporate world was deeply shaken.</p>
+      <p>In response to these scandals, U.S. Senator Paul Sarbanes and U.S. Representative Michael Oxley introduced legislation aimed at improving corporate governance and accountability. This legislation, known as the Sarbanes-Oxley Act, was designed to protect investors by improving the accuracy and reliability of corporate disclosures and holding CEOs and CFOs accountable for the financial statements of their companies.</p>
+    </section>
+    
+    
+    <section id="ReasonForCreation">
+      <title>Reason for Creation</title>
+      <p>Basel III was created to address the issues in the banking system that were exposed by the 2008 financial crisis. It aims to improve the banking sector's ability to handle market stress, enhance financial institutions' risk management practices, and boost transparency in the banking sector. By setting out higher and more forward-looking capital requirements, Basel III aims to ensure that banks have a strong capital base, which can absorb losses and continue operations under financial and economic stress.</p>
+    </section>
+    
+    <section id="Impact">
+      <title>Consumer and Business Impact</title>
+      <p>The Basel III accords have significantly reshaped the banking industry worldwide. They have introduced new standards and practices aimed at improving the stability and integrity of the financial system.</p>
+      <p>Here are some of the key areas of impact:</p>
+      
+      <ul>
+        <li>
+          <p><b><xref href="capital_requirements.dita#capital_requirements">Capital Requirements</xref>:</b> Basel III significantly increased the capital requirements for banks. This has forced many institutions to raise more capital, altering the financial structures of banks. The higher capital requirements are intended to make banks more resilient to losses, but they can also potentially impact profitability and the ability to lend.</p>
+        </li>
+        
+        
+        
+        <li>
+          <p><b>Liquidity Rules:</b> The accords introduced new liquidity rules that require banks to hold a certain level of high-quality liquid assets. This has influenced the types of assets banks hold and has increased the costs of banking operations.</p>
+        </li>
+        
+        <li>
+          <p><b>Risk Management:</b> Basel III has led to changes in how banks approach risk management. Banks are now required to consider various types of risk (including systemic and liquidity risk) in more depth, which has affected their risk management systems and practices.</p>
+        </li>
+        
+        <li>
+          <p><b>Business Models:</b> In response to Basel III, many banks have had to revise their business models. For example, some have moved away from riskier activities to meet the new capital and liquidity requirements. This has had a variety of effects, from the types of services banks offer to the fees they charge.</p>
+        </li>
+      </ul>
+      
+      <p>While the intent of Basel III is to improve the stability of the banking system, it has also introduced new challenges for banks. Critics argue that the increased costs and constraints can impact banking services and even potentially contribute to financial exclusion.</p>
+    </section>
+    
+  </body>
+</topic>

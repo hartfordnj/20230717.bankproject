@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:css="http://www.w3.org/1998/CSS" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:chfox="http://www.oxygenxml.com/chemistry/extensions/fop" xmlns:fox="http://xmlgraphics.apache.org/fop/extensions" xml:lang="en"><fo:layout-master-set><!-- Page: css2fo-default--><fo:page-sequence-master master-name="css2fo-default"><fo:repeatable-page-master-alternatives><fo:conditional-page-master-reference master-reference="spm-css2fo-default-left-blank" odd-or-even="even" page-position="any" blank-or-not-blank="blank"/><fo:conditional-page-master-reference master-reference="spm-css2fo-default-left" odd-or-even="even" page-position="any" blank-or-not-blank="any"/><fo:conditional-page-master-reference master-reference="spm-css2fo-default-right-blank" odd-or-even="odd" page-position="any" blank-or-not-blank="blank"/><fo:conditional-page-master-reference master-reference="spm-css2fo-default-right" odd-or-even="odd" page-position="any" blank-or-not-blank="any"/></fo:repeatable-page-master-alternatives></fo:page-sequence-master><fo:simple-page-master master-name="spm-css2fo-default-left-blank" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-left-blank" extent="0.25in"/><fo:region-after region-name="sc-after-left-blank" extent="0.25in"/><fo:region-start region-name="sc-start-left-blank" extent="0.25in"/><fo:region-end region-name="sc-end-left-blank" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-css2fo-default-left" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-left" extent="0.25in"/><fo:region-after region-name="sc-after-left" extent="0.25in"/><fo:region-start region-name="sc-start-left" extent="0.25in"/><fo:region-end region-name="sc-end-left" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-css2fo-default-right-blank" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-right-blank" extent="0.25in"/><fo:region-after region-name="sc-after-right-blank" extent="0.25in"/><fo:region-start region-name="sc-start-right-blank" extent="0.25in"/><fo:region-end region-name="sc-end-right-blank" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-css2fo-default-right" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-right" extent="0.25in"/><fo:region-after region-name="sc-after-right" extent="0.25in"/><fo:region-start region-name="sc-start-right" extent="0.25in"/><fo:region-end region-name="sc-end-right" extent="0.25in"/></fo:simple-page-master><!-- Page: front-page--><fo:page-sequence-master master-name="front-page"><fo:repeatable-page-master-alternatives><fo:conditional-page-master-reference master-reference="spm-front-page-left-blank" odd-or-even="even" page-position="any" blank-or-not-blank="blank"/><fo:conditional-page-master-reference master-reference="spm-front-page-left" odd-or-even="even" page-position="any" blank-or-not-blank="any"/><fo:conditional-page-master-reference master-reference="spm-front-page-right-blank" odd-or-even="odd" page-position="any" blank-or-not-blank="blank"/><fo:conditional-page-master-reference master-reference="spm-front-page-right" odd-or-even="odd" page-position="any" blank-or-not-blank="any"/></fo:repeatable-page-master-alternatives></fo:page-sequence-master><fo:simple-page-master master-name="spm-front-page-left-blank" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-left-blank" extent="0.25in"/><fo:region-after region-name="sc-after-left-blank" extent="0.25in"/><fo:region-start region-name="sc-start-left-blank" extent="0.25in"/><fo:region-end region-name="sc-end-left-blank" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-front-page-left" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-left" extent="0.25in"/><fo:region-after region-name="sc-after-left" extent="0.25in"/><fo:region-start region-name="sc-start-left" extent="0.25in"/><fo:region-end region-name="sc-end-left" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-front-page-right-blank" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-right-blank" extent="0.25in"/><fo:region-after region-name="sc-after-right-blank" extent="0.25in"/><fo:region-start region-name="sc-start-right-blank" extent="0.25in"/><fo:region-end region-name="sc-end-right-blank" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-front-page-right" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-right" extent="0.25in"/><fo:region-after region-name="sc-after-right" extent="0.25in"/><fo:region-start region-name="sc-start-right" extent="0.25in"/><fo:region-end region-name="sc-end-right" extent="0.25in"/></fo:simple-page-master><!-- Page: table-of-contents--><fo:page-sequence-master master-name="table-of-contents"><fo:repeatable-page-master-alternatives><fo:conditional-page-master-reference master-reference="spm-table-of-contents-left-first-blank" odd-or-even="even" page-position="first" blank-or-not-blank="blank"/><fo:conditional-page-master-reference master-reference="spm-table-of-contents-left-first" odd-or-even="even" page-position="first" blank-or-not-blank="any"/><fo:conditional-page-master-reference master-reference="spm-table-of-contents-left-blank" odd-or-even="even" page-position="any" blank-or-not-blank="blank"/><fo:conditional-page-master-reference master-reference="spm-table-of-contents-left" odd-or-even="even" page-position="any" blank-or-not-blank="any"/><fo:conditional-page-master-reference master-reference="spm-table-of-contents-right-first-blank" odd-or-even="odd" page-position="first" blank-or-not-blank="blank"/><fo:conditional-page-master-reference master-reference="spm-table-of-contents-right-first" odd-or-even="odd" page-position="first" blank-or-not-blank="any"/><fo:conditional-page-master-reference master-reference="spm-table-of-contents-right-blank" odd-or-even="odd" page-position="any" blank-or-not-blank="blank"/><fo:conditional-page-master-reference master-reference="spm-table-of-contents-right" odd-or-even="odd" page-position="any" blank-or-not-blank="any"/></fo:repeatable-page-master-alternatives></fo:page-sequence-master><fo:simple-page-master master-name="spm-table-of-contents-left-first-blank" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-left-first-blank" extent="0.25in"/><fo:region-after region-name="sc-after-left-first-blank" extent="0.25in"/><fo:region-start region-name="sc-start-left-first-blank" extent="0.25in"/><fo:region-end region-name="sc-end-left-first-blank" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-table-of-contents-left-first" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-left-first" extent="0.25in"/><fo:region-after region-name="sc-after-left-first" extent="0.25in"/><fo:region-start region-name="sc-start-left-first" extent="0.25in"/><fo:region-end region-name="sc-end-left-first" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-table-of-contents-left-blank" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-left-blank" extent="0.25in"/><fo:region-after region-name="sc-after-left-blank" extent="0.25in"/><fo:region-start region-name="sc-start-left-blank" extent="0.25in"/><fo:region-end region-name="sc-end-left-blank" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-table-of-contents-left" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-left" extent="0.25in"/><fo:region-after region-name="sc-after-left" extent="0.25in"/><fo:region-start region-name="sc-start-left" extent="0.25in"/><fo:region-end region-name="sc-end-left" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-table-of-contents-right-first-blank" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-right-first-blank" extent="0.25in"/><fo:region-after region-name="sc-after-right-first-blank" extent="0.25in"/><fo:region-start region-name="sc-start-right-first-blank" extent="0.25in"/><fo:region-end region-name="sc-end-right-first-blank" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-table-of-contents-right-first" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-right-first" extent="0.25in"/><fo:region-after region-name="sc-after-right-first" extent="0.25in"/><fo:region-start region-name="sc-start-right-first" extent="0.25in"/><fo:region-end region-name="sc-end-right-first" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-table-of-contents-right-blank" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-right-blank" extent="0.25in"/><fo:region-after region-name="sc-after-right-blank" extent="0.25in"/><fo:region-start region-name="sc-start-right-blank" extent="0.25in"/><fo:region-end region-name="sc-end-right-blank" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-table-of-contents-right" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-right" extent="0.25in"/><fo:region-after region-name="sc-after-right" extent="0.25in"/><fo:region-start region-name="sc-start-right" extent="0.25in"/><fo:region-end region-name="sc-end-right" extent="0.25in"/></fo:simple-page-master><!-- Page: index--><fo:page-sequence-master master-name="index"><fo:repeatable-page-master-alternatives><fo:conditional-page-master-reference master-reference="spm-index-left-blank" odd-or-even="even" page-position="any" blank-or-not-blank="blank"/><fo:conditional-page-master-reference master-reference="spm-index-left" odd-or-even="even" page-position="any" blank-or-not-blank="any"/><fo:conditional-page-master-reference master-reference="spm-index-right-blank" odd-or-even="odd" page-position="any" blank-or-not-blank="blank"/><fo:conditional-page-master-reference master-reference="spm-index-right" odd-or-even="odd" page-position="any" blank-or-not-blank="any"/></fo:repeatable-page-master-alternatives></fo:page-sequence-master><fo:simple-page-master master-name="spm-index-left-blank" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" column-count="2" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-left-blank" extent="0.25in"/><fo:region-after region-name="sc-after-left-blank" extent="0.25in"/><fo:region-start region-name="sc-start-left-blank" extent="0.25in"/><fo:region-end region-name="sc-end-left-blank" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-index-left" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" column-count="2" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-left" extent="0.25in"/><fo:region-after region-name="sc-after-left" extent="0.25in"/><fo:region-start region-name="sc-start-left" extent="0.25in"/><fo:region-end region-name="sc-end-left" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-index-right-blank" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" column-count="2" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-right-blank" extent="0.25in"/><fo:region-after region-name="sc-after-right-blank" extent="0.25in"/><fo:region-start region-name="sc-start-right-blank" extent="0.25in"/><fo:region-end region-name="sc-end-right-blank" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-index-right" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" column-count="2" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-right" extent="0.25in"/><fo:region-after region-name="sc-after-right" extent="0.25in"/><fo:region-start region-name="sc-start-right" extent="0.25in"/><fo:region-end region-name="sc-end-right" extent="0.25in"/></fo:simple-page-master><!-- Page: chapter--><fo:page-sequence-master master-name="chapter"><fo:repeatable-page-master-alternatives><fo:conditional-page-master-reference master-reference="spm-chapter-left-first-blank" odd-or-even="even" page-position="first" blank-or-not-blank="blank"/><fo:conditional-page-master-reference master-reference="spm-chapter-left-first" odd-or-even="even" page-position="first" blank-or-not-blank="any"/><fo:conditional-page-master-reference master-reference="spm-chapter-left-blank" odd-or-even="even" page-position="any" blank-or-not-blank="blank"/><fo:conditional-page-master-reference master-reference="spm-chapter-left" odd-or-even="even" page-position="any" blank-or-not-blank="any"/><fo:conditional-page-master-reference master-reference="spm-chapter-right-first-blank" odd-or-even="odd" page-position="first" blank-or-not-blank="blank"/><fo:conditional-page-master-reference master-reference="spm-chapter-right-first" odd-or-even="odd" page-position="first" blank-or-not-blank="any"/><fo:conditional-page-master-reference master-reference="spm-chapter-right-blank" odd-or-even="odd" page-position="any" blank-or-not-blank="blank"/><fo:conditional-page-master-reference master-reference="spm-chapter-right" odd-or-even="odd" page-position="any" blank-or-not-blank="any"/></fo:repeatable-page-master-alternatives></fo:page-sequence-master><fo:simple-page-master master-name="spm-chapter-left-first-blank" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-left-first-blank" extent="0.25in"/><fo:region-after region-name="sc-after-left-first-blank" extent="0.25in"/><fo:region-start region-name="sc-start-left-first-blank" extent="0.25in"/><fo:region-end region-name="sc-end-left-first-blank" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-chapter-left-first" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-left-first" extent="0.25in"/><fo:region-after region-name="sc-after-left-first" extent="0.25in"/><fo:region-start region-name="sc-start-left-first" extent="0.25in"/><fo:region-end region-name="sc-end-left-first" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-chapter-left-blank" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-left-blank" extent="0.25in"/><fo:region-after region-name="sc-after-left-blank" extent="0.25in"/><fo:region-start region-name="sc-start-left-blank" extent="0.25in"/><fo:region-end region-name="sc-end-left-blank" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-chapter-left" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-left" extent="0.25in"/><fo:region-after region-name="sc-after-left" extent="0.25in"/><fo:region-start region-name="sc-start-left" extent="0.25in"/><fo:region-end region-name="sc-end-left" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-chapter-right-first-blank" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-right-first-blank" extent="0.25in"/><fo:region-after region-name="sc-after-right-first-blank" extent="0.25in"/><fo:region-start region-name="sc-start-right-first-blank" extent="0.25in"/><fo:region-end region-name="sc-end-right-first-blank" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-chapter-right-first" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-right-first" extent="0.25in"/><fo:region-after region-name="sc-after-right-first" extent="0.25in"/><fo:region-start region-name="sc-start-right-first" extent="0.25in"/><fo:region-end region-name="sc-end-right-first" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-chapter-right-blank" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-right-blank" extent="0.25in"/><fo:region-after region-name="sc-after-right-blank" extent="0.25in"/><fo:region-start region-name="sc-start-right-blank" extent="0.25in"/><fo:region-end region-name="sc-end-right-blank" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-chapter-right" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-right" extent="0.25in"/><fo:region-after region-name="sc-after-right" extent="0.25in"/><fo:region-start region-name="sc-start-right" extent="0.25in"/><fo:region-end region-name="sc-end-right" extent="0.25in"/></fo:simple-page-master><!-- Page: matter-page--><fo:page-sequence-master master-name="matter-page"><fo:repeatable-page-master-alternatives><fo:conditional-page-master-reference master-reference="spm-matter-page-left-blank" odd-or-even="even" page-position="any" blank-or-not-blank="blank"/><fo:conditional-page-master-reference master-reference="spm-matter-page-left" odd-or-even="even" page-position="any" blank-or-not-blank="any"/><fo:conditional-page-master-reference master-reference="spm-matter-page-right-blank" odd-or-even="odd" page-position="any" blank-or-not-blank="blank"/><fo:conditional-page-master-reference master-reference="spm-matter-page-right" odd-or-even="odd" page-position="any" blank-or-not-blank="any"/></fo:repeatable-page-master-alternatives></fo:page-sequence-master><fo:simple-page-master master-name="spm-matter-page-left-blank" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-left-blank" extent="0.25in"/><fo:region-after region-name="sc-after-left-blank" extent="0.25in"/><fo:region-start region-name="sc-start-left-blank" extent="0.25in"/><fo:region-end region-name="sc-end-left-blank" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-matter-page-left" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-left" extent="0.25in"/><fo:region-after region-name="sc-after-left" extent="0.25in"/><fo:region-start region-name="sc-start-left" extent="0.25in"/><fo:region-end region-name="sc-end-left" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-matter-page-right-blank" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-right-blank" extent="0.25in"/><fo:region-after region-name="sc-after-right-blank" extent="0.25in"/><fo:region-start region-name="sc-start-right-blank" extent="0.25in"/><fo:region-end region-name="sc-end-right-blank" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-matter-page-right" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-right" extent="0.25in"/><fo:region-after region-name="sc-after-right" extent="0.25in"/><fo:region-start region-name="sc-start-right" extent="0.25in"/><fo:region-end region-name="sc-end-right" extent="0.25in"/></fo:simple-page-master><!-- Page: portrait-page--><fo:page-sequence-master master-name="portrait-page"><fo:repeatable-page-master-alternatives><fo:conditional-page-master-reference master-reference="spm-portrait-page-left-blank" odd-or-even="even" page-position="any" blank-or-not-blank="blank"/><fo:conditional-page-master-reference master-reference="spm-portrait-page-left" odd-or-even="even" page-position="any" blank-or-not-blank="any"/><fo:conditional-page-master-reference master-reference="spm-portrait-page-right-blank" odd-or-even="odd" page-position="any" blank-or-not-blank="blank"/><fo:conditional-page-master-reference master-reference="spm-portrait-page-right" odd-or-even="odd" page-position="any" blank-or-not-blank="any"/></fo:repeatable-page-master-alternatives></fo:page-sequence-master><fo:simple-page-master master-name="spm-portrait-page-left-blank" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-left-blank" extent="0.25in"/><fo:region-after region-name="sc-after-left-blank" extent="0.25in"/><fo:region-start region-name="sc-start-left-blank" extent="0.25in"/><fo:region-end region-name="sc-end-left-blank" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-portrait-page-left" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-left" extent="0.25in"/><fo:region-after region-name="sc-after-left" extent="0.25in"/><fo:region-start region-name="sc-start-left" extent="0.25in"/><fo:region-end region-name="sc-end-left" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-portrait-page-right-blank" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-right-blank" extent="0.25in"/><fo:region-after region-name="sc-after-right-blank" extent="0.25in"/><fo:region-start region-name="sc-start-right-blank" extent="0.25in"/><fo:region-end region-name="sc-end-right-blank" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-portrait-page-right" page-width="8.5in" page-height="11.0in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-right" extent="0.25in"/><fo:region-after region-name="sc-after-right" extent="0.25in"/><fo:region-start region-name="sc-start-right" extent="0.25in"/><fo:region-end region-name="sc-end-right" extent="0.25in"/></fo:simple-page-master><!-- Page: landscape-page--><fo:page-sequence-master master-name="landscape-page"><fo:repeatable-page-master-alternatives><fo:conditional-page-master-reference master-reference="spm-landscape-page-left-blank" odd-or-even="even" page-position="any" blank-or-not-blank="blank"/><fo:conditional-page-master-reference master-reference="spm-landscape-page-left" odd-or-even="even" page-position="any" blank-or-not-blank="any"/><fo:conditional-page-master-reference master-reference="spm-landscape-page-right-blank" odd-or-even="odd" page-position="any" blank-or-not-blank="blank"/><fo:conditional-page-master-reference master-reference="spm-landscape-page-right" odd-or-even="odd" page-position="any" blank-or-not-blank="any"/></fo:repeatable-page-master-alternatives></fo:page-sequence-master><fo:simple-page-master master-name="spm-landscape-page-left-blank" page-width="11.0in" page-height="8.5in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-left-blank" extent="0.25in"/><fo:region-after region-name="sc-after-left-blank" extent="0.25in"/><fo:region-start region-name="sc-start-left-blank" extent="0.25in"/><fo:region-end region-name="sc-end-left-blank" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-landscape-page-left" page-width="11.0in" page-height="8.5in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-left" extent="0.25in"/><fo:region-after region-name="sc-after-left" extent="0.25in"/><fo:region-start region-name="sc-start-left" extent="0.25in"/><fo:region-end region-name="sc-end-left" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-landscape-page-right-blank" page-width="11.0in" page-height="8.5in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-right-blank" extent="0.25in"/><fo:region-after region-name="sc-after-right-blank" extent="0.25in"/><fo:region-start region-name="sc-start-right-blank" extent="0.25in"/><fo:region-end region-name="sc-end-right-blank" extent="0.25in"/></fo:simple-page-master><fo:simple-page-master master-name="spm-landscape-page-right" page-width="11.0in" page-height="8.5in"><fo:region-body padding-top="0.2em" padding-bottom="0.2em" margin-top="0.25in" margin-bottom="0.25in" margin-left="0.25in" margin-right="0.25in"/><fo:region-before region-name="sc-before-right" extent="0.25in"/><fo:region-after region-name="sc-after-right" extent="0.25in"/><fo:region-start region-name="sc-start-right" extent="0.25in"/><fo:region-end region-name="sc-end-right" extent="0.25in"/></fo:simple-page-master></fo:layout-master-set><fo:declarations><x:xmpmeta xmlns:x="adobe:ns:meta/"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description><xmp:CreatorTool xmlns:xmp="http://ns.adobe.com/xap/1.0/">oXygen PDF Chemistry Version 24.0 Build 2021-10-12T11:40:49Z</xmp:CreatorTool></rdf:Description></rdf:RDF></x:xmpmeta><fop-pdf:catalog xmlns:fop-pdf="http://xmlgraphics.apache.org/fop/extensions/pdf"><fop-pdf:dictionary key="ViewerPreferences"/></fop-pdf:catalog></fo:declarations><fox:destination internal-destination="ariaid-title1"/><fox:destination internal-destination="ariaid-title2"/><fox:destination internal-destination="ariaid-title3"/><fox:destination internal-destination="ariaid-title4"/><fox:destination internal-destination="ariaid-title5"/><fox:destination internal-destination="ariaid-title6"/><fox:destination internal-destination="ariaid-title7"/><fox:destination internal-destination="cover"/><fox:destination internal-destination="reg_cover_pine"/><fox:destination internal-destination="disclosure_informational_purpose"/><fox:destination internal-destination="Reg_DoddFrank"/><fox:destination internal-destination="ToPutItPlainly"/><fox:destination internal-destination="History"/><fox:destination internal-destination="ReasonForCreation"/><fox:destination internal-destination="Impact"/><fox:destination internal-destination="Reg_GLBA"/><fox:destination internal-destination="ToPutItPlainly"/><fox:destination internal-destination="History"/><fox:destination internal-destination="ReasonForCreation"/><fox:destination internal-destination="Impact"/><fox:destination internal-destination="Reg_BaselIII"/><fox:destination internal-destination="ToPutItPlainly"/><fox:destination internal-destination="History"/><fox:destination internal-destination="ReasonForCreation"/><fox:destination internal-destination="Impact"/><fox:destination internal-destination="Reg_SOX"/><fox:destination internal-destination="ToPutItPlainly"/><fox:destination internal-destination="History"/><fox:destination internal-destination="ReasonForCreation"/><fox:destination internal-destination="Impact"/><fox:destination internal-destination="Reg_BSA"/><fox:destination internal-destination="ToPutItPlainly"/><fox:destination internal-destination="History"/><fox:destination internal-destination="ReasonForCreation"/><fox:destination internal-destination="Impact"/><fo:bookmark-tree><fo:bookmark internal-destination="ariaid-title1"><fo:bookmark-title/></fo:bookmark><fo:bookmark internal-destination="ariaid-title2"><fo:bookmark-title>Disclosure and Informational Purpose</fo:bookmark-title></fo:bookmark><fo:bookmark internal-destination="ariaid-title3"><fo:bookmark-title>Dodd-Frank Wall Street Reform and Consumer Protection Act</fo:bookmark-title><fo:bookmark internal-destination="d36e344" starting-state="hide"><fo:bookmark-title>To Put It Plainly</fo:bookmark-title></fo:bookmark><fo:bookmark internal-destination="d36e371" starting-state="hide"><fo:bookmark-title>History</fo:bookmark-title></fo:bookmark><fo:bookmark internal-destination="d36e389" starting-state="hide"><fo:bookmark-title>Reason for Creation</fo:bookmark-title></fo:bookmark><fo:bookmark internal-destination="d36e407" starting-state="hide"><fo:bookmark-title>Consumer and Business Impact</fo:bookmark-title></fo:bookmark></fo:bookmark><fo:bookmark internal-destination="ariaid-title4"><fo:bookmark-title>Gramm-Leach-Bliley Act (GLBA)</fo:bookmark-title><fo:bookmark internal-destination="d36e487" starting-state="hide"><fo:bookmark-title>To Put It Plainly</fo:bookmark-title></fo:bookmark><fo:bookmark internal-destination="d36e514" starting-state="hide"><fo:bookmark-title>History</fo:bookmark-title></fo:bookmark><fo:bookmark internal-destination="d36e526" starting-state="hide"><fo:bookmark-title>Reason for Creation</fo:bookmark-title></fo:bookmark><fo:bookmark internal-destination="d36e538" starting-state="hide"><fo:bookmark-title>Consumer and Business Impact</fo:bookmark-title></fo:bookmark></fo:bookmark><fo:bookmark internal-destination="ariaid-title5"><fo:bookmark-title>Basel III Regulations</fo:bookmark-title><fo:bookmark internal-destination="d36e618" starting-state="hide"><fo:bookmark-title>To Put It Plainly</fo:bookmark-title></fo:bookmark><fo:bookmark internal-destination="d36e645" starting-state="hide"><fo:bookmark-title>History</fo:bookmark-title></fo:bookmark><fo:bookmark internal-destination="d36e663" starting-state="hide"><fo:bookmark-title>Reason for Creation</fo:bookmark-title></fo:bookmark><fo:bookmark internal-destination="d36e675" starting-state="hide"><fo:bookmark-title>Consumer and Business Impact</fo:bookmark-title></fo:bookmark></fo:bookmark><fo:bookmark internal-destination="ariaid-title6"><fo:bookmark-title>Sarbanes-Oxley Act (SOX)</fo:bookmark-title><fo:bookmark internal-destination="d36e755" starting-state="hide"><fo:bookmark-title>To Put It Plainly</fo:bookmark-title></fo:bookmark><fo:bookmark internal-destination="d36e782" starting-state="hide"><fo:bookmark-title>History</fo:bookmark-title></fo:bookmark><fo:bookmark internal-destination="d36e800" starting-state="hide"><fo:bookmark-title>Reason for Creation</fo:bookmark-title></fo:bookmark><fo:bookmark internal-destination="d36e821" starting-state="hide"><fo:bookmark-title>Consumer and Business Impact</fo:bookmark-title></fo:bookmark></fo:bookmark><fo:bookmark internal-destination="ariaid-title7"><fo:bookmark-title>Bank Secrecy Act (BSA)</fo:bookmark-title><fo:bookmark internal-destination="d36e901" starting-state="hide"><fo:bookmark-title>To Put It Plainly</fo:bookmark-title></fo:bookmark><fo:bookmark internal-destination="d36e928" starting-state="hide"><fo:bookmark-title>History</fo:bookmark-title></fo:bookmark><fo:bookmark internal-destination="d36e943" starting-state="hide"><fo:bookmark-title>Reason for Creation</fo:bookmark-title></fo:bookmark><fo:bookmark internal-destination="d36e958" starting-state="hide"><fo:bookmark-title>Consumer and Business Impact</fo:bookmark-title></fo:bookmark></fo:bookmark></fo:bookmark-tree><fo:page-sequence master-reference="chapter" force-page-count="no-force" initial-page-number="1" id="last-page-sequence" line-height-shift-adjustment="disregard-shifts"><fo:static-content flow-name="sc-before-left" role="artifact"><fo:table border-collapse="separate" table-layout="fixed" width="100%"><fo:table-body><fo:table-row><!--TOP-LEFT--><fo:table-cell start-indent="0" end-indent="0" height="0.25in" width="(8.5in - 0.25in - 0.25in)" text-align="left" display-align="center" font-size="8pt"><fo:block><fo:retrieve-marker retrieve-class-name="maptitle" retrieve-boundary="document" retrieve-position="first-including-carryover"/><fo:retrieve-marker retrieve-class-name="parttitle" retrieve-boundary="document" retrieve-position="first-including-carryover"/><fo:retrieve-marker retrieve-class-name="chaptertitle" retrieve-boundary="document" retrieve-position="first-including-carryover"/><fo:retrieve-marker retrieve-class-name="sectiontitle" retrieve-boundary="document" retrieve-position="first-including-carryover"/> | <fo:page-number/></fo:block></fo:table-cell></fo:table-row></fo:table-body></fo:table></fo:static-content><fo:static-content flow-name="sc-before-right" role="artifact"><fo:table border-collapse="separate" table-layout="fixed" width="100%"><fo:table-body><fo:table-row><!--TOP-RIGHT--><fo:table-cell start-indent="0" end-indent="0" height="0.25in" width="(8.5in - 0.25in - 0.25in)" text-align="right" display-align="center" font-size="8pt"><fo:block><fo:retrieve-marker retrieve-class-name="maptitle" retrieve-boundary="document" retrieve-position="first-including-carryover"/><fo:retrieve-marker retrieve-class-name="parttitle" retrieve-boundary="document" retrieve-position="first-including-carryover"/><fo:retrieve-marker retrieve-class-name="chaptertitle" retrieve-boundary="document" retrieve-position="first-including-carryover"/><fo:retrieve-marker retrieve-class-name="sectiontitle" retrieve-boundary="document" retrieve-position="first-including-carryover"/> | <fo:page-number/></fo:block></fo:table-cell></fo:table-row></fo:table-body></fo:table></fo:static-content><fo:static-content flow-name="xsl-footnote-separator" role="artifact" text-align="left" display-align="auto" font-size="8pt" border-top-style="solid" border-top-color="black" border-top-width="thin" padding-top="8pt"><fo:block/></fo:static-content><fo:flow flow-name="xsl-region-body"><fo:block font-family="serif" font-size="12px" xml:lang="en">
+    
+    <fo:block-container color="rgb(42 , 39 , 39)" font-family="Arial, sans-serif" font-size="14px" margin-left="0" margin-right="0"><fo:block end-indent="0" start-indent="0">
+        <fo:block>
+            <fo:block>
+                <fo:block>
+                    <fo:block xml:lang="en"><fo:marker marker-class-name="toc-header"><fo:inline/>Contents</fo:marker><fo:block-container space-before="1em" page-break-after="always" id="unique_1" chfox:nd-id="cover"><fo:block end-indent="0" start-indent="0" role="Sect">
+                            <fo:block-container color="rgb(0 , 191 , 111)" font-size="24px" space-after="20px" margin-left="0" margin-right="0" space-before="0" page-break-after="avoid" id="ariaid-title1"><fo:block end-indent="0" start-indent="0" role="H1"><fo:marker marker-class-name="chaptertitle-no-prefix"><fo:inline/> 1 - <!--content(text)--><fo:inline/></fo:marker><fo:marker marker-class-name="chaptertitle"><fo:inline/> | 1 - <!--content(text)--><fo:inline/></fo:marker><fo:inline/><fo:inline/></fo:block></fo:block-container>
+                            <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
+                                <fo:inline chfox:inch="true" max-width="100%" id="unique_1_Connect_42_reg_cover_pine" chfox:nd-id="reg_cover_pine"><fo:inline><fo:external-graphic src="file:/C:/Users/TheGi/Desktop/20230717.bankproject/images/pinevista-cover2%20(8.5%20×%2011%20in).png" max-width="100%" scaling="uniform" width="1024in div 96" content-width="scale-to-fit" height="1343in div 96" content-height="scale-to-fit"/></fo:inline></fo:inline>
+                            </fo:block></fo:block-container>
+                        </fo:block></fo:block-container><fo:block-container space-before="1em" page-break-after="always" id="unique_2" chfox:nd-id="disclosure_informational_purpose"><fo:block end-indent="0" start-indent="0" role="Sect">
+                            <fo:block-container color="rgb(0 , 191 , 111)" font-size="24px" space-after="20px" margin-left="0" margin-right="0" space-before="0" page-break-after="avoid" id="ariaid-title2"><fo:block end-indent="0" start-indent="0" role="H1"><fo:marker marker-class-name="chaptertitle-no-prefix"><fo:inline/> 2 - <!--content(text)--><fo:inline>Disclosure and Informational Purpose</fo:inline></fo:marker><fo:marker marker-class-name="chaptertitle"><fo:inline/> | 2 - <!--content(text)--><fo:inline>Disclosure and Informational Purpose</fo:inline></fo:marker><fo:inline/><fo:inline>Disclosure and Informational
+                                Purpose</fo:inline></fo:block></fo:block-container>
+                            <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
+                                <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">The following document is a portfolio piece created by <fo:inline font-weight="bold">Nicholas J Hartford</fo:inline>. It
+                                    presents a fictional financial institution, PineVista Bank, for
+                                    the explicit purpose of showcasing the creator's skills and
+                                    capabilities in the production of professional financial
+                                    literature.</fo:block></fo:block-container>
+                                <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">This brochure highlights common banking regulations that
+                                    clients of the fictional PineVista Bank might encounter during
+                                    their transactions. The information provided herein is solely
+                                    for illustrative and educational purposes. Any scenarios,
+                                    transactions, or potential situations described within are
+                                    completely hypothetical and are intended to aid in understanding
+                                    the listed banking regulations.</fo:block></fo:block-container>
+                                <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">Any similarities to actual banks, banking regulations, or
+                                    financial practices are purely coincidental and not intended to
+                                    represent any real-world financial institution or situation.</fo:block></fo:block-container>
+                                <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">Please note that the information in this brochure should not be
+                                    used as a basis for making any actual banking or financial
+                                    decisions. If you require financial advice or services, please
+                                    consult a licensed professional or trusted financial
+                                    institution.</fo:block></fo:block-container>
+                                <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">2023 | Nicholas J Hartford</fo:block></fo:block-container>
+                            </fo:block></fo:block-container>
+                        </fo:block></fo:block-container><fo:block-container space-before="1em" page-break-after="always" id="unique_3" chfox:nd-id="Reg_DoddFrank"><fo:block end-indent="0" start-indent="0" role="Sect">
+                            <fo:block-container color="rgb(0 , 191 , 111)" font-size="24px" space-after="20px" margin-left="0" margin-right="0" space-before="0" page-break-after="avoid" id="ariaid-title3"><fo:block end-indent="0" start-indent="0" role="H1"><fo:marker marker-class-name="chaptertitle-no-prefix"><fo:inline/> 3 - <!--content(text)--><fo:inline>Dodd-Frank Wall Street Reform and Consumer Protection Act</fo:inline></fo:marker><fo:marker marker-class-name="chaptertitle"><fo:inline/> | 3 - <!--content(text)--><fo:inline>Dodd-Frank Wall Street Reform and Consumer Protection Act</fo:inline></fo:marker><fo:inline/><fo:inline>Dodd-Frank Wall Street Reform and Consumer
+                                    Protection Act</fo:inline></fo:block></fo:block-container>
+                            <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
+                                <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">The Dodd-Frank Wall Street Reform and
+                                    Consumer Protection Act, commonly known as Dodd-Frank, is a
+                                    major piece of financial regulation legislation passed in 2010
+                                    in response to the financial crisis of 2008.</fo:block></fo:block-container>
+                                <fo:block-container space-after="1em" space-before="1em" id="unique_3_Connect_42_ToPutItPlainly" chfox:nd-id="ToPutItPlainly"><fo:block end-indent="0" start-indent="0" role="Sect">
+                                    <fo:block-container id="d36e344" font-size="1.17em" font-weight="bold" space-after="0" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid"><fo:block end-indent="0" start-indent="0" role="H2">To
+                                        Put It Plainly</fo:block></fo:block-container>
+                                    <fo:list-block relative-align="baseline" provisional-label-separation="3pt" provisional-distance-between-starts="40px" space-after="1.33em" space-before="1.33em">
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>Dodd-Frank
+                                            is a law passed in 2010 to keep the U.S. financial
+                                            industry in check and protect people's money.</fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>It was
+                                            made in response to the 2008 financial crisis, which was
+                                            a time when a lot of people lost their money because of
+                                            risky financial practices by banks.</fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>The law
+                                            sets rules for banks and other financial companies to
+                                            make sure they are not taking dangerous risks that could
+                                            harm people or the economy.</fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>It also
+                                            made a new agency, the Consumer Financial Protection
+                                            Bureau, to specifically look out for ordinary people,
+                                            making sure they're treated fairly by banks and
+                                            lenders.</fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>Overall,
+                                            the goal of Dodd-Frank is to make the financial system
+                                            safer and more transparent, so a big financial crisis
+                                            like the one in 2008 doesn't happen again.</fo:block></fo:list-item-body></fo:list-item>
+                                    </fo:list-block>
+                                </fo:block></fo:block-container>
+                                <fo:block-container space-after="1em" space-before="1em" id="unique_3_Connect_42_History" chfox:nd-id="History"><fo:block end-indent="0" start-indent="0" role="Sect">
+                                    <fo:block-container id="d36e371" font-size="1.17em" font-weight="bold" space-after="0" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid"><fo:block end-indent="0" start-indent="0" role="H2">History</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">The Dodd-Frank
+                                        Wall Street Reform and Consumer Protection Act, colloquially
+                                        known as Dodd-Frank, was signed into law by President Barack
+                                        Obama on July 21, 2010. The Act represented a significant
+                                        legislative response to the financial crisis that had swept
+                                        across the United States and the rest of the world starting
+                                        in 2008.</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">The financial
+                                        crisis, triggered by the bursting of the housing bubble and
+                                        the subsequent collapse of complex financial products tied
+                                        to real estate, led to a severe global economic downturn. It
+                                        exposed numerous weaknesses and unethical practices in the
+                                        financial industry, including predatory lending, risky
+                                        trading practices, and a lack of transparency.</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">In response to
+                                        the crisis, the U.S. government initiated a series of
+                                        financial reforms aimed at preventing a similar crisis in
+                                        the future. The Dodd-Frank Act was a key part of these
+                                        reforms. Named after its sponsors, U.S. Senator Christopher
+                                        J. Dodd and U.S. Representative Barney Frank, the Act sought
+                                        to decrease various risks in the financial system, improve
+                                        accountability and transparency in the financial industry,
+                                        end the notion of "too big to fail", and protect consumers
+                                        from deceptive financial practices.</fo:block></fo:block-container>
+                                </fo:block></fo:block-container>
+                                <fo:block-container space-after="1em" space-before="1em" id="unique_3_Connect_42_ReasonForCreation" chfox:nd-id="ReasonForCreation"><fo:block end-indent="0" start-indent="0" role="Sect">
+                                    <fo:block-container id="d36e389" font-size="1.17em" font-weight="bold" space-after="0" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid"><fo:block end-indent="0" start-indent="0" role="H2">Reason
+                                        for Creation</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">The Dodd-Frank
+                                        Act was born out of the necessity to curtail the risky
+                                        financial practices that had led to the financial crisis of
+                                        2008. The law's primary objectives were to prevent a
+                                        recurrence of a financial crisis of similar magnitude,
+                                        increase the transparency and stability of the financial
+                                        system, and protect consumers from abusive financial
+                                        practices.</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">The Act
+                                        addressed these goals through a range of regulatory
+                                        measures. For instance, it created agencies like the
+                                        Financial Stability Oversight Council (FSOC) to identify
+                                        risks to financial stability, and the Consumer Financial
+                                        Protection Bureau (CFPB) to protect consumers from deceptive
+                                        financial practices. It also instituted new rules on capital
+                                        reserves to reduce the risk of bank failures and established
+                                        regulations on derivatives and hedge funds to prevent
+                                        destabilizing speculation.</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">Furthermore, the
+                                        Act aimed to end the concept of "too big to fail" by
+                                        establishing procedures for the orderly liquidation of large
+                                        financial institutions that pose a significant risk to the
+                                        economy, thus avoiding taxpayer-funded bailouts. Dodd-Frank
+                                        also pushed for greater transparency and accountability in
+                                        the financial industry by introducing more comprehensive
+                                        reporting requirements and strengthening the role of
+                                        whistleblowers.</fo:block></fo:block-container>
+                                </fo:block></fo:block-container>
+                                <fo:block-container space-after="1em" space-before="1em" id="unique_3_Connect_42_Impact" chfox:nd-id="Impact"><fo:block end-indent="0" start-indent="0" role="Sect">
+                                    <fo:block-container id="d36e407" font-size="1.17em" font-weight="bold" space-after="0" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid"><fo:block end-indent="0" start-indent="0" role="H2">Consumer
+                                        and Business Impact</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">The Dodd-Frank
+                                        Act has had a profound impact on consumer and business
+                                        transactions. Many of these impacts were designed to protect
+                                        consumers, increase transparency, and reduce risk in the
+                                        financial system.</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">Here are some of
+                                        the most frequently impacted transactions:</fo:block></fo:block-container>
+                                    <fo:list-block relative-align="baseline" provisional-label-separation="3pt" provisional-distance-between-starts="40px" space-after="1.33em" space-before="1.33em">
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:block-container><fo:block start-indent="0" end-indent="0">
+                                            <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"><fo:inline font-weight="bold">Mortgage Lending:</fo:inline> Dodd-Frank introduced
+                                                a series of regulations that affect both lenders and
+                                                borrowers. For instance, it created the "Ability to
+                                                Repay" rule that requires lenders to make a good
+                                                faith effort to determine whether borrowers can
+                                                afford their mortgage loans. This rule was intended
+                                                to prevent the risky lending practices that
+                                                contributed to the housing bubble and subsequent
+                                                financial crisis.</fo:block></fo:block-container>
+                                        </fo:block></fo:block-container></fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:block-container><fo:block start-indent="0" end-indent="0">
+                                            <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"><fo:inline font-weight="bold">Derivatives Trading:</fo:inline> The Act brought
+                                                significant reform to the derivatives market, most
+                                                notably requiring that many types of derivatives be
+                                                traded on exchanges and cleared through central
+                                                clearinghouses. This increases transparency and
+                                                reduces the risk associated with these complex
+                                                financial instruments.</fo:block></fo:block-container>
+                                        </fo:block></fo:block-container></fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:block-container><fo:block start-indent="0" end-indent="0">
+                                            <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"><fo:inline font-weight="bold">Consumer Protection:</fo:inline> The creation of the
+                                                Consumer Financial Protection Bureau (CFPB) under
+                                                Dodd-Frank significantly expanded consumer
+                                                protections. The CFPB is responsible for overseeing
+                                                and enforcing regulations on financial products and
+                                                services like credit cards, mortgages, and loans,
+                                                which have a direct impact on consumers.</fo:block></fo:block-container>
+                                        </fo:block></fo:block-container></fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:block-container><fo:block start-indent="0" end-indent="0">
+                                            <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"><fo:inline font-weight="bold">Capital Requirements:</fo:inline> Dodd-Frank
+                                                introduced stricter capital requirements for banks,
+                                                which affects their lending practices. By requiring
+                                                banks to hold more capital, the law aims to ensure
+                                                that banks are more resilient to financial shocks
+                                                and less likely to require taxpayer-funded bailouts
+                                                in the event of a crisis.</fo:block></fo:block-container>
+                                        </fo:block></fo:block-container></fo:block></fo:list-item-body></fo:list-item>
+                                    </fo:list-block>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">These changes
+                                        and restrictions, while designed to reduce risk and protect
+                                        consumers, have also introduced new challenges and costs for
+                                        financial institutions, which often pass these costs onto
+                                        their customers.</fo:block></fo:block-container>
+                                </fo:block></fo:block-container>
+                            </fo:block></fo:block-container>
+                        </fo:block></fo:block-container><fo:block-container space-before="1em" page-break-after="always" id="unique_4" chfox:nd-id="Reg_GLBA"><fo:block end-indent="0" start-indent="0" role="Sect">
+                            <fo:block-container color="rgb(0 , 191 , 111)" font-size="24px" space-after="20px" margin-left="0" margin-right="0" space-before="0" page-break-after="avoid" id="ariaid-title4"><fo:block end-indent="0" start-indent="0" role="H1"><fo:marker marker-class-name="chaptertitle-no-prefix"><fo:inline/> 4 - <!--content(text)--><fo:inline>Gramm-Leach-Bliley Act (GLBA)</fo:inline></fo:marker><fo:marker marker-class-name="chaptertitle"><fo:inline/> | 4 - <!--content(text)--><fo:inline>Gramm-Leach-Bliley Act (GLBA)</fo:inline></fo:marker><fo:inline/><fo:inline>Gramm-Leach-Bliley Act (GLBA)</fo:inline></fo:block></fo:block-container>
+                            <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
+                                <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">The Gramm-Leach-Bliley Act (GLBA), passed
+                                    in 1999, is a crucial piece of legislation that allows financial
+                                    institutions to offer a combination of banking, insurance, and
+                                    securities services.</fo:block></fo:block-container>
+                                <fo:block-container space-after="1em" space-before="1em" id="unique_4_Connect_42_ToPutItPlainly" chfox:nd-id="ToPutItPlainly"><fo:block end-indent="0" start-indent="0" role="Sect">
+                                    <fo:block-container id="d36e487" font-size="1.17em" font-weight="bold" space-after="0" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid"><fo:block end-indent="0" start-indent="0" role="H2">To
+                                        Put It Plainly</fo:block></fo:block-container>
+                                    <fo:list-block relative-align="baseline" provisional-label-separation="3pt" provisional-distance-between-starts="40px" space-after="1.33em" space-before="1.33em">
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>GLBA is a
+                                            law that was passed in 1999 to allow financial companies
+                                            to provide more types of services to customers.</fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>Before
+                                            this law, a business could only offer banking,
+                                            insurance, or securities services. They couldn't do all
+                                            three.</fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>GLBA
+                                            changed this, letting companies offer a mix of these
+                                            services.</fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>This
+                                            created more competition among these companies but also
+                                            increased the risk, as they are now engaged in a wider
+                                            range of activities.</fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>The goal
+                                            of GLBA was to modernize the financial industry, giving
+                                            customers more options and making operations more
+                                            efficient for companies.</fo:block></fo:list-item-body></fo:list-item>
+                                    </fo:list-block>
+                                </fo:block></fo:block-container>
+                                <fo:block-container space-after="1em" space-before="1em" id="unique_4_Connect_42_History" chfox:nd-id="History"><fo:block end-indent="0" start-indent="0" role="Sect">
+                                    <fo:block-container id="d36e514" font-size="1.17em" font-weight="bold" space-after="0" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid"><fo:block end-indent="0" start-indent="0" role="H2">History</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">The
+                                        Gramm-Leach-Bliley Act (GLBA), also known as the Financial
+                                        Services Modernization Act, was signed into law in 1999.
+                                        Prior to GLBA, companies were confined to providing only one
+                                        type of financial service: banking, insurance, or
+                                        securities. This restriction had its roots in the
+                                        Glass-Steagall Act of 1933, a law enacted in the aftermath
+                                        of the Great Depression to reduce risk in the financial
+                                        sector by separating these services.</fo:block></fo:block-container>
+                                </fo:block></fo:block-container>
+                                <fo:block-container space-after="1em" space-before="1em" id="unique_4_Connect_42_ReasonForCreation" chfox:nd-id="ReasonForCreation"><fo:block end-indent="0" start-indent="0" role="Sect">
+                                    <fo:block-container id="d36e526" font-size="1.17em" font-weight="bold" space-after="0" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid"><fo:block end-indent="0" start-indent="0" role="H2">Reason
+                                        for Creation</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">The GLBA was
+                                        created to modernize the financial industry. By allowing the
+                                        integration of banking, insurance, and securities functions,
+                                        it aimed to increase efficiency and provide customers with a
+                                        broader range of services from a single institution. It was
+                                        also seen as a response to the changing dynamics of the
+                                        financial industry and growing international
+                                        competition.</fo:block></fo:block-container>
+                                </fo:block></fo:block-container>
+                                <fo:block-container space-after="1em" space-before="1em" id="unique_4_Connect_42_Impact" chfox:nd-id="Impact"><fo:block end-indent="0" start-indent="0" role="Sect">
+                                    <fo:block-container id="d36e538" font-size="1.17em" font-weight="bold" space-after="0" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid"><fo:block end-indent="0" start-indent="0" role="H2">Consumer
+                                        and Business Impact</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">The
+                                        Gramm-Leach-Bliley Act (GLBA) has had a profound impact on
+                                        both businesses and consumers. It changed the landscape of
+                                        the financial industry and introduced new risks and
+                                        opportunities.</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">Here are some of
+                                        the key areas of impact:</fo:block></fo:block-container>
+                                    <fo:list-block relative-align="baseline" provisional-label-separation="3pt" provisional-distance-between-starts="40px" space-after="1.33em" space-before="1.33em">
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:block-container><fo:block start-indent="0" end-indent="0">
+                                            <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"><fo:inline font-weight="bold">Financial Services Integration:</fo:inline> GLBA has
+                                                allowed institutions to offer a combination of
+                                                banking, insurance, and securities services. This
+                                                has led to increased competition among providers,
+                                                which can benefit consumers through more options and
+                                                potentially lower prices. However, it has also
+                                                increased the complexity of managing these
+                                                integrated institutions.</fo:block></fo:block-container>
+                                        </fo:block></fo:block-container></fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:block-container><fo:block start-indent="0" end-indent="0">
+                                            <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"><fo:inline font-weight="bold">Risk
+                                                  Profile:</fo:inline> The integration of different
+                                                financial functions allowed by the GLBA has
+                                                increased the risk profile of financial
+                                                institutions. By engaging in a wider range of
+                                                activities, institutions may be exposed to new types
+                                                of risk. This has implications for regulatory
+                                                oversight and the stability of the financial
+                                                system.</fo:block></fo:block-container>
+                                        </fo:block></fo:block-container></fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:block-container><fo:block start-indent="0" end-indent="0">
+                                            <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"><fo:inline font-weight="bold">Consumer Privacy:</fo:inline> GLBA introduced
+                                                significant privacy regulations for financial
+                                                institutions, requiring them to provide customers
+                                                with privacy notices and the opportunity to opt out
+                                                of some sharing of personal information. This
+                                                represented an important step forward in consumer
+                                                data protection.</fo:block></fo:block-container>
+                                        </fo:block></fo:block-container></fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:block-container><fo:block start-indent="0" end-indent="0">
+                                            <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"><fo:inline font-weight="bold">Industry Consolidation:</fo:inline> The deregulation
+                                                aspects of the GLBA led to consolidation in the
+                                                financial industry, as companies were able to expand
+                                                into new areas. This has resulted in larger, more
+                                                diverse financial institutions, which carry their
+                                                own set of challenges and risks.</fo:block></fo:block-container>
+                                        </fo:block></fo:block-container></fo:block></fo:list-item-body></fo:list-item>
+                                    </fo:list-block>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">Overall, the
+                                        GLBA has had significant impacts on the financial industry
+                                        and the customers it serves. These changes have introduced
+                                        both opportunities and challenges, and their effects
+                                        continue to be debated.</fo:block></fo:block-container>
+                                </fo:block></fo:block-container>
+                            </fo:block></fo:block-container>
+                        </fo:block></fo:block-container><fo:block-container space-before="1em" page-break-after="always" id="unique_5" chfox:nd-id="Reg_BaselIII"><fo:block end-indent="0" start-indent="0" role="Sect">
+                            <fo:block-container color="rgb(0 , 191 , 111)" font-size="24px" space-after="20px" margin-left="0" margin-right="0" space-before="0" page-break-after="avoid" id="ariaid-title5"><fo:block end-indent="0" start-indent="0" role="H1"><fo:marker marker-class-name="chaptertitle-no-prefix"><fo:inline/> 5 - <!--content(text)--><fo:inline>Basel III Regulations</fo:inline></fo:marker><fo:marker marker-class-name="chaptertitle"><fo:inline/> | 5 - <!--content(text)--><fo:inline>Basel III Regulations</fo:inline></fo:marker><fo:inline/><fo:inline>Basel III Regulations</fo:inline></fo:block></fo:block-container>
+                            <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
+                                <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">Basel III is a set of international
+                                    banking regulations developed by the Basel Committee on Banking
+                                    Supervision (BCBS), aimed at improving the banking sector's
+                                    ability to handle financial and economic stress, improve risk
+                                    management, and strengthen banks' transparency.</fo:block></fo:block-container>
+                                <fo:block-container space-after="1em" space-before="1em" id="unique_5_Connect_42_ToPutItPlainly" chfox:nd-id="ToPutItPlainly"><fo:block end-indent="0" start-indent="0" role="Sect">
+                                    <fo:block-container id="d36e618" font-size="1.17em" font-weight="bold" space-after="0" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid"><fo:block end-indent="0" start-indent="0" role="H2">To
+                                        Put It Plainly</fo:block></fo:block-container>
+                                    <fo:list-block relative-align="baseline" provisional-label-separation="3pt" provisional-distance-between-starts="40px" space-after="1.33em" space-before="1.33em">
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>Basel III
+                                            is like a rulebook for banks all around the world,
+                                            telling them how much money they need to keep on hand in
+                                            case things go bad.</fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>These
+                                            rules were put together by a group from different
+                                            countries after the 2008 financial crisis to make sure
+                                            banks are prepared for tough times.</fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>The goal
+                                            is to prevent a situation where banks run out of money
+                                            and the government has to step in to bail them out.</fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>Under
+                                            these rules, banks also have to be more open about their
+                                            business so that everyone knows what's going on and
+                                            risks can be spotted early.</fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>In simple
+                                            words, Basel III tries to make banking safer and more
+                                            transparent for everyone.</fo:block></fo:list-item-body></fo:list-item>
+                                    </fo:list-block>
+                                </fo:block></fo:block-container>
+                                <fo:block-container space-after="1em" space-before="1em" id="unique_5_Connect_42_History" chfox:nd-id="History"><fo:block end-indent="0" start-indent="0" role="Sect">
+                                    <fo:block-container id="d36e645" font-size="1.17em" font-weight="bold" space-after="0" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid"><fo:block end-indent="0" start-indent="0" role="H2">History</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">The
+                                        Sarbanes-Oxley Act (SOX) was signed into law on July 30,
+                                        2002. Its creation came in the wake of several high-profile
+                                        corporate scandals, including Enron, Tyco, and WorldCom,
+                                        that severely shook investor confidence in the financial
+                                        markets.</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">These
+                                        corporations, once seen as highly successful and immensely
+                                        profitable, imploded spectacularly following revelations of
+                                        extensive accounting fraud. In the case of Enron, once the
+                                        seventh largest corporation in the U.S., the fallout was
+                                        dramatic - employees lost their jobs and their retirement
+                                        savings, investors lost billions, and trust in the corporate
+                                        world was deeply shaken.</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">In response to
+                                        these scandals, U.S. Senator Paul Sarbanes and U.S.
+                                        Representative Michael Oxley introduced legislation aimed at
+                                        improving corporate governance and accountability. This
+                                        legislation, known as the Sarbanes-Oxley Act, was designed
+                                        to protect investors by improving the accuracy and
+                                        reliability of corporate disclosures and holding CEOs and
+                                        CFOs accountable for the financial statements of their
+                                        companies.</fo:block></fo:block-container>
+                                </fo:block></fo:block-container>
+                                <fo:block-container space-after="1em" space-before="1em" id="unique_5_Connect_42_ReasonForCreation" chfox:nd-id="ReasonForCreation"><fo:block end-indent="0" start-indent="0" role="Sect">
+                                    <fo:block-container id="d36e663" font-size="1.17em" font-weight="bold" space-after="0" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid"><fo:block end-indent="0" start-indent="0" role="H2">Reason
+                                        for Creation</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">Basel III was
+                                        created to address the issues in the banking system that
+                                        were exposed by the 2008 financial crisis. It aims to
+                                        improve the banking sector's ability to handle market
+                                        stress, enhance financial institutions' risk management
+                                        practices, and boost transparency in the banking sector. By
+                                        setting out higher and more forward-looking capital
+                                        requirements, Basel III aims to ensure that banks have a
+                                        strong capital base, which can absorb losses and continue
+                                        operations under financial and economic stress.</fo:block></fo:block-container>
+                                </fo:block></fo:block-container>
+                                <fo:block-container space-after="1em" space-before="1em" id="unique_5_Connect_42_Impact" chfox:nd-id="Impact"><fo:block end-indent="0" start-indent="0" role="Sect">
+                                    <fo:block-container id="d36e675" font-size="1.17em" font-weight="bold" space-after="0" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid"><fo:block end-indent="0" start-indent="0" role="H2">Consumer
+                                        and Business Impact</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">The Basel III
+                                        accords have significantly reshaped the banking industry
+                                        worldwide. They have introduced new standards and practices
+                                        aimed at improving the stability and integrity of the
+                                        financial system.</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">Here are some of
+                                        the key areas of impact:</fo:block></fo:block-container>
+                                    <fo:list-block relative-align="baseline" provisional-label-separation="3pt" provisional-distance-between-starts="40px" space-after="1.33em" space-before="1.33em">
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:block-container><fo:block start-indent="0" end-indent="0">
+                                            <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"><fo:inline font-weight="bold">Capital Requirements:</fo:inline> Basel III
+                                                significantly increased the capital requirements for
+                                                banks. This has forced many institutions to raise
+                                                more capital, altering the financial structures of
+                                                banks. The higher capital requirements are intended
+                                                to make banks more resilient to losses, but they can
+                                                also potentially impact profitability and the
+                                                ability to lend.</fo:block></fo:block-container>
+                                        </fo:block></fo:block-container></fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:block-container><fo:block start-indent="0" end-indent="0">
+                                            <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"><fo:inline font-weight="bold">Liquidity Rules:</fo:inline> The accords introduced
+                                                new liquidity rules that require banks to hold a
+                                                certain level of high-quality liquid assets. This
+                                                has influenced the types of assets banks hold and
+                                                has increased the costs of banking operations.</fo:block></fo:block-container>
+                                        </fo:block></fo:block-container></fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:block-container><fo:block start-indent="0" end-indent="0">
+                                            <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"><fo:inline font-weight="bold">Risk
+                                                  Management:</fo:inline> Basel III has led to changes
+                                                in how banks approach risk management. Banks are now
+                                                required to consider various types of risk
+                                                (including systemic and liquidity risk) in more
+                                                depth, which has affected their risk management
+                                                systems and practices.</fo:block></fo:block-container>
+                                        </fo:block></fo:block-container></fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:block-container><fo:block start-indent="0" end-indent="0">
+                                            <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"><fo:inline font-weight="bold">Business Models:</fo:inline> In response to Basel
+                                                III, many banks have had to revise their business
+                                                models. For example, some have moved away from
+                                                riskier activities to meet the new capital and
+                                                liquidity requirements. This has had a variety of
+                                                effects, from the types of services banks offer to
+                                                the fees they charge.</fo:block></fo:block-container>
+                                        </fo:block></fo:block-container></fo:block></fo:list-item-body></fo:list-item>
+                                    </fo:list-block>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">While the intent
+                                        of Basel III is to improve the stability of the banking
+                                        system, it has also introduced new challenges for banks.
+                                        Critics argue that the increased costs and constraints can
+                                        impact banking services and even potentially contribute to
+                                        financial exclusion.</fo:block></fo:block-container>
+                                </fo:block></fo:block-container>
+                            </fo:block></fo:block-container>
+                        </fo:block></fo:block-container><fo:block-container space-before="1em" page-break-after="always" id="unique_6" chfox:nd-id="Reg_SOX"><fo:block end-indent="0" start-indent="0" role="Sect">
+                            <fo:block-container color="rgb(0 , 191 , 111)" font-size="24px" space-after="20px" margin-left="0" margin-right="0" space-before="0" page-break-after="avoid" id="ariaid-title6"><fo:block end-indent="0" start-indent="0" role="H1"><fo:marker marker-class-name="chaptertitle-no-prefix"><fo:inline/> 6 - <!--content(text)--><fo:inline>Sarbanes-Oxley Act (SOX)</fo:inline></fo:marker><fo:marker marker-class-name="chaptertitle"><fo:inline/> | 6 - <!--content(text)--><fo:inline>Sarbanes-Oxley Act (SOX)</fo:inline></fo:marker><fo:inline/><fo:inline>Sarbanes-Oxley Act (SOX)</fo:inline></fo:block></fo:block-container>
+                            <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
+                                <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">The Sarbanes-Oxley Act, often known as
+                                    SOX, is a United States federal law enacted in 2002 that sets
+                                    standards for all U.S. public company boards, management, and
+                                    public accounting firms.</fo:block></fo:block-container>
+                                <fo:block-container space-after="1em" space-before="1em" id="unique_6_Connect_42_ToPutItPlainly" chfox:nd-id="ToPutItPlainly"><fo:block end-indent="0" start-indent="0" role="Sect">
+                                    <fo:block-container id="d36e755" font-size="1.17em" font-weight="bold" space-after="0" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid"><fo:block end-indent="0" start-indent="0" role="H2">To
+                                        Put It Plainly</fo:block></fo:block-container>
+                                    <fo:list-block relative-align="baseline" provisional-label-separation="3pt" provisional-distance-between-starts="40px" space-after="1.33em" space-before="1.33em">
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end">1. </fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>The
+                                            Sarbanes-Oxley Act, commonly known as SOX, was
+                                            established in 2002 in the wake of financial scandals
+                                            like Enron and WorldCom, where significant accounting
+                                            fraud occurred.</fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end">2. </fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>This law
+                                            applies to all publicly traded U.S. companies, including
+                                            their management and accounting firms, aiming to
+                                            increase transparency and protect investors.</fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end">3. </fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>SOX sets
+                                            numerous standards and requirements for company boards,
+                                            management, and accounting firms. It imposes more
+                                            stringent record-keeping requirements, mandates the
+                                            independence of the firms that audit public companies,
+                                            and establishes the Public Company Accounting Oversight
+                                            Board (PCAOB) to oversee these auditors.</fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end">4. </fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>The Act
+                                            was designed primarily to protect investors by improving
+                                            the accuracy and reliability of corporate disclosures,
+                                            thus fostering trust in the U.S. financial system.</fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end">5. </fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>Failure to
+                                            comply with SOX can result in severe penalties,
+                                            including hefty fines and imprisonment. It holds top
+                                            management accountable for the accuracy of financial
+                                            information, with the CEO and CFO required to certify
+                                            the financial statements.</fo:block></fo:list-item-body></fo:list-item>
+                                    </fo:list-block>
+                                </fo:block></fo:block-container>
+                                <fo:block-container space-after="1em" space-before="1em" id="unique_6_Connect_42_History" chfox:nd-id="History"><fo:block end-indent="0" start-indent="0" role="Sect">
+                                    <fo:block-container id="d36e782" font-size="1.17em" font-weight="bold" space-after="0" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid"><fo:block end-indent="0" start-indent="0" role="H2">History</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">The
+                                        Sarbanes-Oxley Act (SOX) was signed into law on July 30,
+                                        2002. Its creation came in the wake of several high-profile
+                                        corporate scandals, including Enron, Tyco, and WorldCom,
+                                        that severely shook investor confidence in the financial
+                                        markets.</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">These
+                                        corporations, once seen as highly successful and immensely
+                                        profitable, imploded spectacularly following revelations of
+                                        extensive accounting fraud. In the case of Enron, once the
+                                        seventh largest corporation in the U.S., the fallout was
+                                        dramatic - employees lost their jobs and their retirement
+                                        savings, investors lost billions, and trust in the corporate
+                                        world was deeply shaken.</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">In response to
+                                        these scandals, U.S. Senator Paul Sarbanes and U.S.
+                                        Representative Michael Oxley introduced legislation aimed at
+                                        improving corporate governance and accountability. This
+                                        legislation, known as the Sarbanes-Oxley Act, was designed
+                                        to protect investors by improving the accuracy and
+                                        reliability of corporate disclosures and holding CEOs and
+                                        CFOs accountable for the financial statements of their
+                                        companies.</fo:block></fo:block-container>
+                                </fo:block></fo:block-container>
+                                <fo:block-container space-after="1em" space-before="1em" id="unique_6_Connect_42_ReasonForCreation" chfox:nd-id="ReasonForCreation"><fo:block end-indent="0" start-indent="0" role="Sect">
+                                    <fo:block-container id="d36e800" font-size="1.17em" font-weight="bold" space-after="0" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid"><fo:block end-indent="0" start-indent="0" role="H2">Reason
+                                        for Creation</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">The
+                                        Sarbanes-Oxley Act (SOX) was enacted in response to a series
+                                        of high-profile corporate and accounting scandals in the
+                                        early 2000s, including those involving companies like Enron,
+                                        WorldCom, and Tyco. These scandals, which led to significant
+                                        financial losses for investors and decreased public trust in
+                                        the stock market, exposed various kinds of accounting fraud
+                                        and corporate malfeasance.</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">SOX was designed
+                                        to address these issues by increasing transparency in
+                                        corporate governance and accounting, enhancing the accuracy
+                                        of financial reporting, and establishing new or enhanced
+                                        standards for all U.S. public company boards, management,
+                                        and public accounting firms. The aim was to protect
+                                        investors and restore trust in the financial markets.</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">Some of the key
+                                        provisions of the act include stricter rules for financial
+                                        disclosures from corporations, increased accountability for
+                                        corporate executives, greater independence for company
+                                        auditors, and stiffer penalties for corporate and accounting
+                                        fraud.</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">In essence, SOX
+                                        aimed to reduce the possibility of corporate fraud by
+                                        enhancing corporate responsibility, improving financial
+                                        disclosures, and combatting corporate and accounting fraud.
+                                        The law provides a more robust regulatory framework for
+                                        corporate governance and aims to restore and maintain
+                                        investor confidence in the stock market.</fo:block></fo:block-container>
+                                </fo:block></fo:block-container>
+                                <fo:block-container space-after="1em" space-before="1em" id="unique_6_Connect_42_Impact" chfox:nd-id="Impact"><fo:block end-indent="0" start-indent="0" role="Sect">
+                                    <fo:block-container id="d36e821" font-size="1.17em" font-weight="bold" space-after="0" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid"><fo:block end-indent="0" start-indent="0" role="H2">Consumer
+                                        and Business Impact</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">The
+                                        Sarbanes-Oxley Act has had a significant impact on corporate
+                                        governance, particularly for publicly traded companies. The
+                                        provisions of SOX have implications for both businesses and
+                                        indirectly, consumers.</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">Here are some of
+                                        the major impacts:</fo:block></fo:block-container>
+                                    <fo:list-block relative-align="baseline" provisional-label-separation="3pt" provisional-distance-between-starts="40px" space-after="1.33em" space-before="1.33em">
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:block-container><fo:block start-indent="0" end-indent="0">
+                                            <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"><fo:inline font-weight="bold">Corporate Transparency:</fo:inline> SOX requires
+                                                greater transparency in financial reporting, leading
+                                                to a higher level of confidence and trust for
+                                                investors and the public. Companies must now
+                                                disclose more information about their financial
+                                                situation, making it easier for investors and
+                                                consumers to make informed decisions.</fo:block></fo:block-container>
+                                        </fo:block></fo:block-container></fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:block-container><fo:block start-indent="0" end-indent="0">
+                                            <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"><fo:inline font-weight="bold">Accountability of Executives:</fo:inline> SOX holds
+                                                corporate executives accountable for the accuracy of
+                                                financial statements. Executives must personally
+                                                attest to the accuracy of their company's financial
+                                                reports, making corporate governance more robust and
+                                                decreasing the chances of financial fraud.</fo:block></fo:block-container>
+                                        </fo:block></fo:block-container></fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:block-container><fo:block start-indent="0" end-indent="0">
+                                            <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"><fo:inline font-weight="bold">Independent Audits:</fo:inline> SOX mandates more
+                                                independence for external auditors. This means the
+                                                audits are more reliable, as they are less likely to
+                                                be influenced by the companies they are
+                                                auditing.</fo:block></fo:block-container>
+                                        </fo:block></fo:block-container></fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:block-container><fo:block start-indent="0" end-indent="0">
+                                            <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"><fo:inline font-weight="bold">Penalties for Fraud:</fo:inline> SOX imposes severe
+                                                penalties for fraudulent financial activity, which
+                                                has led to a decrease in corporate fraud cases. This
+                                                serves as a strong deterrent for corporations and
+                                                ensures a more trustworthy business environment for
+                                                consumers.</fo:block></fo:block-container>
+                                        </fo:block></fo:block-container></fo:block></fo:list-item-body></fo:list-item>
+                                    </fo:list-block>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">These changes
+                                        have led to increased confidence and trust in corporate
+                                        governance and financial reporting. However, they have also
+                                        resulted in increased costs for companies, which can impact
+                                        their profitability and potentially, the prices they charge
+                                        consumers.</fo:block></fo:block-container>
+                                </fo:block></fo:block-container>
+                            </fo:block></fo:block-container>
+                        </fo:block></fo:block-container><fo:block-container space-before="1em" page-break-after="always" id="unique_7" chfox:nd-id="Reg_BSA"><fo:block end-indent="0" start-indent="0" role="Sect">
+                            <fo:block-container color="rgb(0 , 191 , 111)" font-size="24px" space-after="20px" margin-left="0" margin-right="0" space-before="0" page-break-after="avoid" id="ariaid-title7"><fo:block end-indent="0" start-indent="0" role="H1"><fo:marker marker-class-name="chaptertitle-no-prefix"><fo:inline/> 7 - <!--content(text)--><fo:inline>Bank Secrecy Act (BSA)</fo:inline></fo:marker><fo:marker marker-class-name="chaptertitle"><fo:inline/> | 7 - <!--content(text)--><fo:inline>Bank Secrecy Act (BSA)</fo:inline></fo:marker><fo:inline/><fo:inline>Bank Secrecy Act (BSA)</fo:inline></fo:block></fo:block-container>
+                            <fo:block-container space-after="0" margin-left="0" margin-right="0" space-before="0"><fo:block end-indent="0" start-indent="0">
+                                <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">The Bank Secrecy Act (BSA), passed in
+                                    1970, is a U.S. law aimed at preventing and detecting money
+                                    laundering, tax evasion, and other financial crimes.</fo:block></fo:block-container>
+                                <fo:block-container space-after="1em" space-before="1em" id="unique_7_Connect_42_ToPutItPlainly" chfox:nd-id="ToPutItPlainly"><fo:block end-indent="0" start-indent="0" role="Sect">
+                                    <fo:block-container id="d36e901" font-size="1.17em" font-weight="bold" space-after="0" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid"><fo:block end-indent="0" start-indent="0" role="H2">To
+                                        Put It Plainly</fo:block></fo:block-container>
+                                    <fo:list-block relative-align="baseline" provisional-label-separation="3pt" provisional-distance-between-starts="40px" space-after="1.33em" space-before="1.33em">
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>The BSA is
+                                            a law enacted in 1970 to prevent criminals from using
+                                            banks to hide their illicit activities.</fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>The law
+                                            requires banks to keep records of cash transactions over
+                                            $10,000 and to report suspicious activities that could
+                                            be related to money laundering or fraud.</fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>The BSA
+                                            also established the requirement for banks to know their
+                                            customers, which helps prevent identity theft and other
+                                            forms of fraud.</fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>Over the
+                                            years, the BSA has been enhanced by other laws such as
+                                            the USA PATRIOT Act to bolster its effectiveness in
+                                            combating financial crimes.</fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>The BSA's
+                                            primary goal is to create an unbroken paper trail for
+                                            investigators to follow in the pursuit of criminals and
+                                            their illegal activities.</fo:block></fo:list-item-body></fo:list-item>
+                                    </fo:list-block>
+                                </fo:block></fo:block-container>
+                                <fo:block-container space-after="1em" space-before="1em" id="unique_7_Connect_42_History" chfox:nd-id="History"><fo:block end-indent="0" start-indent="0" role="Sect">
+                                    <fo:block-container id="d36e928" font-size="1.17em" font-weight="bold" space-after="0" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid"><fo:block end-indent="0" start-indent="0" role="H2">History</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">The Bank Secrecy
+                                        Act, also known as the Currency and Foreign Transactions
+                                        Reporting Act, was established in 1970 as part of an effort
+                                        to combat money laundering and other financial crimes. The
+                                        Act requires financial institutions to assist U.S.
+                                        government agencies in detecting and preventing these types
+                                        of illegal activities.</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">Over the years,
+                                        the BSA has been enhanced by additional legislation, most
+                                        notably the USA PATRIOT Act in 2001, which expanded the
+                                        Act's provisions in response to the September 11 terrorist
+                                        attacks.</fo:block></fo:block-container>
+                                </fo:block></fo:block-container>
+                                <fo:block-container space-after="1em" space-before="1em" id="unique_7_Connect_42_ReasonForCreation" chfox:nd-id="ReasonForCreation"><fo:block end-indent="0" start-indent="0" role="Sect">
+                                    <fo:block-container id="d36e943" font-size="1.17em" font-weight="bold" space-after="0" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid"><fo:block end-indent="0" start-indent="0" role="H2">Reason
+                                        for Creation</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">The BSA was
+                                        created to provide U.S. authorities with the tools necessary
+                                        to combat financial crimes, particularly money laundering
+                                        and tax evasion. The Act requires banks and other financial
+                                        institutions to maintain records and file reports on certain
+                                        types of transactions and activities, which could provide
+                                        crucial evidence in investigations of financial crime.</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">The Act also
+                                        introduced the requirement for banks to know their
+                                        customers, a crucial component in preventing financial fraud
+                                        and identity theft. Over time, with enhancements through
+                                        additional legislation, the BSA's reach has expanded,
+                                        furthering its original objective of detecting and deterring
+                                        financial crimes.</fo:block></fo:block-container>
+                                </fo:block></fo:block-container>
+                                <fo:block-container space-after="1em" space-before="1em" id="unique_7_Connect_42_Impact" chfox:nd-id="Impact"><fo:block end-indent="0" start-indent="0" role="Sect">
+                                    <fo:block-container id="d36e958" font-size="1.17em" font-weight="bold" space-after="0" margin-left="0" margin-right="0" space-before="1em" page-break-after="avoid"><fo:block end-indent="0" start-indent="0" role="H2">Consumer
+                                        and Business Impact</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">The Bank Secrecy
+                                        Act has had a significant impact on consumers and
+                                        businesses. While primarily targeted at detecting and
+                                        preventing financial crimes, the regulations introduced by
+                                        the Act also affect everyday financial transactions.</fo:block></fo:block-container>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">Here are some of
+                                        the most frequently impacted transactions:</fo:block></fo:block-container>
+                                    <fo:list-block relative-align="baseline" provisional-label-separation="3pt" provisional-distance-between-starts="40px" space-after="1.33em" space-before="1.33em">
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:block-container><fo:block start-indent="0" end-indent="0">
+                                            <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"><fo:inline font-weight="bold">Cash
+                                                  Transactions:</fo:inline> The Act requires all
+                                                financial institutions to report cash transactions
+                                                exceeding $10,000. This impacts both individuals and
+                                                businesses making large cash transactions, as they
+                                                may need to provide additional information to the
+                                                bank.</fo:block></fo:block-container>
+                                        </fo:block></fo:block-container></fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:block-container><fo:block start-indent="0" end-indent="0">
+                                            <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"><fo:inline font-weight="bold">Customer Verification:</fo:inline> The BSA
+                                                introduced "Know Your Customer" regulations. These
+                                                require financial institutions to verify the
+                                                identity of individuals opening accounts, which
+                                                impacts the account opening process for consumers
+                                                and businesses.</fo:block></fo:block-container>
+                                        </fo:block></fo:block-container></fo:block></fo:list-item-body></fo:list-item>
+                                        <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end"><fo:inline font-family="Times New Roman,Liberation Serif,DejaVu Serif,Symbol,Segoe UI Symbol,FreeSerif,ZapfDingbats">•</fo:inline></fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:block-container><fo:block start-indent="0" end-indent="0">
+                                            <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0"><fo:inline font-weight="bold">Suspicious Activity Reporting:</fo:inline> Financial
+                                                institutions are required to report suspicious
+                                                activities that might signify money laundering, tax
+                                                evasion, or other financial crimes. This can impact
+                                                consumers and businesses if their transactions are
+                                                deemed suspicious and reported.</fo:block></fo:block-container>
+                                        </fo:block></fo:block-container></fo:block></fo:list-item-body></fo:list-item>
+                                    </fo:list-block>
+                                    <fo:block-container space-after="1em" margin-left="0" margin-right="0" space-before="0.5em"><fo:block end-indent="0" start-indent="0">While these
+                                        regulations can create additional administrative steps for
+                                        consumers and businesses, they serve a critical role in
+                                        safeguarding the financial system from illegal
+                                        activities.</fo:block></fo:block-container>
+                                </fo:block></fo:block-container>
+                            </fo:block></fo:block-container>
+                        </fo:block></fo:block-container></fo:block>
+                </fo:block>
+            </fo:block>
+        </fo:block>
+    </fo:block></fo:block-container>
+</fo:block></fo:flow></fo:page-sequence></fo:root>

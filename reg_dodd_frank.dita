@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="Reg_DoddFrank">
+  <title>Dodd-Frank Wall Street Reform and Consumer Protection Act</title>
+  
+  <shortdesc>The Dodd-Frank Wall Street Reform and Consumer Protection Act, commonly known as Dodd-Frank, is a major piece of financial regulation legislation passed in 2010 in response to the financial crisis of 2008.</shortdesc>
+  
+  <body>
+    
+    <section id="ToPutItPlainly">
+      <title>To Put It Plainly</title>
+      
+      <ul>
+        <li>Dodd-Frank is a law passed in 2010 to keep the U.S. financial industry in check and protect people's money.</li>
+        <li>It was made in response to the 2008 financial crisis, which was a time when a lot of people lost their money because of risky financial practices by banks.</li>
+        <li>The law sets rules for banks and other financial companies to make sure they are not taking dangerous risks that could harm people or the economy.</li>
+        <li>It also made a new agency, the Consumer Financial Protection Bureau, to specifically look out for ordinary people, making sure they're treated fairly by banks and lenders.</li>
+        <li>Overall, the goal of Dodd-Frank is to make the financial system safer and more transparent, so a big financial crisis like the one in 2008 doesn't happen again.</li>
+      </ul>
+      
+    </section>
+    
+    <section id="History">
+      <title>History</title>
+      <p>The Dodd-Frank Wall Street Reform and Consumer Protection Act, colloquially known as Dodd-Frank, was signed into law by President Barack Obama on July 21, 2010. The Act represented a significant legislative response to the financial crisis that had swept across the United States and the rest of the world starting in 2008.</p>
+      <p>The financial crisis, triggered by the bursting of the housing bubble and the subsequent collapse of complex financial products tied to real estate, led to a severe global economic downturn. It exposed numerous weaknesses and unethical practices in the financial industry, including predatory lending, risky trading practices, and a lack of transparency.</p>
+      <p>In response to the crisis, the U.S. government initiated a series of financial reforms aimed at preventing a similar crisis in the future. The Dodd-Frank Act was a key part of these reforms. Named after its sponsors, U.S. Senator Christopher J. Dodd and U.S. Representative Barney Frank, the Act sought to decrease various risks in the financial system, improve accountability and transparency in the financial industry, end the notion of "too big to fail", and protect consumers from deceptive financial practices.</p>
+    </section>
+    
+    
+    <section id="ReasonForCreation">
+      <title>Reason for Creation</title>
+      <p>The Dodd-Frank Act was born out of the necessity to curtail the risky financial practices that had led to the financial crisis of 2008. The law's primary objectives were to prevent a recurrence of a financial crisis of similar magnitude, increase the transparency and stability of the financial system, and protect consumers from abusive financial practices.</p>
+      <p>The Act addressed these goals through a range of regulatory measures. For instance, it created agencies like the Financial Stability Oversight Council (FSOC) to identify risks to financial stability, and the Consumer Financial Protection Bureau (CFPB) to protect consumers from deceptive financial practices. It also instituted new rules on capital reserves to reduce the risk of bank failures and established regulations on derivatives and hedge funds to prevent destabilizing speculation.</p>
+      <p>Furthermore, the Act aimed to end the concept of "too big to fail" by establishing procedures for the orderly liquidation of large financial institutions that pose a significant risk to the economy, thus avoiding taxpayer-funded bailouts. Dodd-Frank also pushed for greater transparency and accountability in the financial industry by introducing more comprehensive reporting requirements and strengthening the role of whistleblowers.</p>
+    </section>
+    
+    
+    <section id="Impact">
+      <title>Consumer and Business Impact</title>
+      <p>The Dodd-Frank Act has had a profound impact on consumer and business transactions. Many of these impacts were designed to protect consumers, increase transparency, and reduce risk in the financial system.</p>
+      <p>Here are some of the most frequently impacted transactions:</p>
+      
+      <ul>
+        <li>
+          <p><b>Mortgage Lending:</b> Dodd-Frank introduced a series of regulations that affect both lenders and borrowers. For instance, it created the "Ability to Repay" rule that requires lenders to make a good faith effort to determine whether borrowers can afford their mortgage loans. This rule was intended to prevent the risky lending practices that contributed to the housing bubble and subsequent financial crisis.</p>
+        </li>
+        
+        <li>
+          <p><b>Derivatives Trading:</b> The Act brought significant reform to the 
+            <xref href="derivatives_trading.dita#derivatives_trading" format="dita">derivatives market</xref>, most notably requiring that many types of derivatives be traded on exchanges and cleared through central clearinghouses. This increases transparency and reduces the risk associated with these complex financial instruments.</p>
+        </li>
+        
+        <li>
+          <p><b>Consumer Protection:</b> The creation of the Consumer Financial Protection Bureau (CFPB) under Dodd-Frank significantly expanded consumer protections. The CFPB is responsible for overseeing and enforcing regulations on financial products and services like credit cards, mortgages, and loans, which have a direct impact on consumers.</p>
+        </li>
+        
+        <li>
+          <p><b>Capital Requirements:</b> Dodd-Frank introduced stricter capital requirements for banks, which affects their lending practices. By requiring banks to hold more capital, the law aims to ensure that banks are more resilient to financial shocks and less likely to require taxpayer-funded bailouts in the event of a crisis.</p>
+        </li>
+      </ul>
+      
+      <p>These changes and restrictions, while designed to reduce risk and protect consumers, have also introduced new challenges and costs for financial institutions, which often pass these costs onto their customers.</p>
+    </section>
+    
+  </body>
+</topic>
