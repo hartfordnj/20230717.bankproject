@@ -332,25 +332,28 @@
     </section>
     
   </body>
-</topic><glossentry break-before="true" is-chapter="true" class="- topic/topic concept/concept glossentry/glossentry " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="financial_services_integration" oid="financial_services_integration" specializations="@props/deliveryTarget">
+</topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="glossary" oid="glossary" specializations="@props/deliveryTarget">
+  <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Glossary</ph></title>
+  
+<glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="financial_services_integration" oid="financial_services_integration" specializations="@props/deliveryTarget">
   <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">Financial Services Integration</ph></glossterm>
   <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">
     <p class="- topic/p ">Financial Services Integration refers to the practice of a single financial institution offering a combination of different services, such as banking, insurance, and securities, to its customers. This has become possible and prevalent due to the Gramm-Leach-Bliley Act (GLBA) which allowed institutions to combine these functions. While it leads to increased competition and potentially more options for customers, it also introduces additional complexities in managing these integrated institutions and can increase the institution's overall risk profile.</p>
   </glossdef>
-</glossentry><glossentry break-before="true" is-chapter="true" class="- topic/topic concept/concept glossentry/glossentry " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="PCAOB" oid="PCAOB" specializations="@props/deliveryTarget">
+</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="PCAOB" oid="PCAOB" specializations="@props/deliveryTarget">
   <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">Public Company Accounting Oversight Board (PCAOB)</ph></glossterm>
   <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">
     <p class="- topic/p ">The PCAOB is a non-profit organization established by the Sarbanes-Oxley Act of 2002. Its purpose is to oversee the audits of public companies and other issuers, aiming to protect the interests of investors and further the public interest in the preparation of informative, accurate, and independent audit reports.</p>
   </glossdef>
-</glossentry><glossentry break-before="true" is-chapter="true" class="- topic/topic concept/concept glossentry/glossentry " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="capital_requirements" oid="capital_requirements" specializations="@props/deliveryTarget">
+</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="capital_requirements" oid="capital_requirements" specializations="@props/deliveryTarget">
   <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">Capital Requirements</ph></glossterm>
   <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">In the context of banking and financial regulation, capital requirements refer to the minimum amount of equity a bank must hold as a percentage of its risk-weighted assets. These requirements are put in place by regulatory authorities to ensure banks can absorb a reasonable amount of loss and comply with their obligation to depositors and other creditors. In the Basel III regulations, capital requirements are significantly increased to improve the resilience and stability of the global banking system.</glossdef>
-</glossentry><glossentry break-before="true" is-chapter="true" class="- topic/topic concept/concept glossentry/glossentry " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="KYC" oid="KYC" specializations="@props/deliveryTarget">
+</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="KYC" oid="KYC" specializations="@props/deliveryTarget">
   <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">Know Your Customer (KYC)</ph></glossterm>
   <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">Know Your Customer, commonly referred to as KYC, is a regulatory requirement for banks and other financial institutions. It mandates these organizations to verify the identity of their clients. This process typically involves gathering and analyzing official identification documents and financial records. The primary purpose of KYC is to prevent financial crimes such as money laundering, fraud, and identity theft.</glossdef>
-</glossentry><glossentry break-before="true" is-chapter="true" class="- topic/topic concept/concept glossentry/glossentry " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="derivatives_trading" oid="derivatives_trading" specializations="@props/deliveryTarget">
+</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="derivatives_trading" oid="derivatives_trading" specializations="@props/deliveryTarget">
   <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">Derivatives Trading</ph></glossterm>
   <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">
     <p class="- topic/p ">Derivatives trading refers to the buying, selling, and management of financial contracts whose value is derived from underlying assets. These contracts, known as derivatives, can be based on various asset types, including stocks, bonds, commodities, currencies, interest rates, and market indexes. The practice of trading these derivatives on exchanges and clearing them through central clearinghouses, as required by the Act, aims to increase transparency and reduce the associated financial risks.</p>
   </glossdef>
-</glossentry></map>
+</glossentry></topic></map>
