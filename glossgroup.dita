@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="glossgroup">
+  <title>Glossary</title>
+  <body>
+    <dl>
+      <dlentry id="capital_requirements">
+        <dt>Capital Requirements</dt>
+        <dd>In the context of banking and financial regulation...</dd>
+      </dlentry>
+      <dlentry id="derivatives_trading">
+        <dt>Derivatives Trading</dt>
+        <dd>Derivatives trading refers to the buying, selling, and management of financial contracts whose value is derived from underlying assets.</dd>
+      </dlentry>
+      <!-- include other terms here -->
+    </dl>
+  </body>
+</topic>

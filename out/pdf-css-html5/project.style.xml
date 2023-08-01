@@ -166,9 +166,9 @@
                                         </li>
                                         <li class="- topic/li li" css:display="list-item">
                                             <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Derivatives Trading:</strong> The Act brought
-                                                significant reform to the <a class="- topic/xref xref" css:color="rgb(213 , 81 , 33)" css:display="inline" css:link="#unique_4" format="dita" href="#unique_4" type="glossentry">derivatives
-                                                  market<css:after css:display="inline" css:font-style="italic" css:link="#unique_4"><css:text> (on page </css:text><css:target-counter url-fragment="unique_4"/><css:text>)</css:text></css:after></a>,
-                                                most notably requiring that many types of
+                                                significant reform to the <a class="- topic/xref xref" css:color="rgb(213 , 81 , 33)" css:display="inline" css:link="#unique_4" href="#unique_4" type="glossentry">derivatives
+                                                  trading<css:after css:display="inline" css:font-style="italic" css:link="#unique_4"><css:text> (on page </css:text><css:target-counter url-fragment="unique_4"/><css:text>)</css:text></css:after></a>
+                                                , most notably requiring that many types of
                                                 derivatives be traded on exchanges and cleared
                                                 through central clearinghouses. This increases
                                                 transparency and reduces the risk associated with
@@ -701,76 +701,69 @@
                                         activities.</p>
                                 </section>
                             </div>
-                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title8" break-before="true" class="- topic/topic topic nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="always" id="unique_13" is-chapter="true" nd:nd-id="glossary" oid="glossary" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:color="rgb(0 , 191 , 111)" css:display="block" css:font-size="24px" css:margin-bottom="20px" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title8"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="8"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="8"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text/></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Glossary</span></h1>
-                            <article aria-labelledby="ariaid-title9" class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested1" css:display="block" css:oxy-pdf-tag-type="Sect" css:page-break-after="always" id="unique_6" nd:nd-id="financial_services_integration" oid="financial_services_integration" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                                <h2 class="- topic/title concept/title glossentry/glossterm title glossterm topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:color="rgb(251 , 156 , 108)" css:display="block" css:font-size="1.5em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title9"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Financial Services
-                                    Integration</span></h2>
-                                <div class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef" css:display="block" css:padding-left="35px">
-                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Financial
-                                        Services Integration refers to the practice of a single
-                                        financial institution offering a combination of different
-                                        services, such as banking, insurance, and securities, to its
-                                        customers. This has become possible and prevalent due to the
-                                        Gramm-Leach-Bliley Act (GLBA) which allowed institutions to
-                                        combine these functions. While it leads to increased
-                                        competition and potentially more options for customers, it
-                                        also introduces additional complexities in managing these
-                                        integrated institutions and can increase the institution's
-                                        overall risk profile.</p>
-                                </div>
-                            </article>
-                            <article aria-labelledby="ariaid-title10" class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested1" css:display="block" css:oxy-pdf-tag-type="Sect" css:page-break-after="always" id="unique_10" nd:nd-id="PCAOB" oid="PCAOB" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                                <h2 class="- topic/title concept/title glossentry/glossterm title glossterm topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:color="rgb(251 , 156 , 108)" css:display="block" css:font-size="1.5em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title10"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Public Company Accounting Oversight
-                                        Board (PCAOB)</span></h2>
-                                <div class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef" css:display="block" css:padding-left="35px">
-                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The PCAOB is a
-                                        non-profit organization established by the Sarbanes-Oxley
-                                        Act of 2002. Its purpose is to oversee the audits of public
-                                        companies and other issuers, aiming to protect the interests
-                                        of investors and further the public interest in the
-                                        preparation of informative, accurate, and independent audit
-                                        reports.</p>
-                                </div>
-                            </article>
-                            <article aria-labelledby="ariaid-title11" class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested1" css:display="block" css:oxy-pdf-tag-type="Sect" css:page-break-after="always" id="unique_8" nd:nd-id="capital_requirements" oid="capital_requirements" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                                <h2 class="- topic/title concept/title glossentry/glossterm title glossterm topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:color="rgb(251 , 156 , 108)" css:display="block" css:font-size="1.5em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title11"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Capital Requirements</span></h2>
-                                <div class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef" css:display="block" css:padding-left="35px">In the context of
-                                    banking and financial regulation, capital requirements refer to
-                                    the minimum amount of equity a bank must hold as a percentage of
-                                    its risk-weighted assets. These requirements are put in place by
-                                    regulatory authorities to ensure banks can absorb a reasonable
-                                    amount of loss and comply with their obligation to depositors
-                                    and other creditors. In the Basel III regulations, capital
-                                    requirements are significantly increased to improve the
-                                    resilience and stability of the global banking system.</div>
-                            </article>
-                            <article aria-labelledby="ariaid-title12" class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested1" css:display="block" css:oxy-pdf-tag-type="Sect" css:page-break-after="always" id="unique_12" nd:nd-id="KYC" oid="KYC" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                                <h2 class="- topic/title concept/title glossentry/glossterm title glossterm topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:color="rgb(251 , 156 , 108)" css:display="block" css:font-size="1.5em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title12"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Know Your Customer (KYC)</span></h2>
-                                <div class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef" css:display="block" css:padding-left="35px">Know Your Customer,
-                                    commonly referred to as KYC, is a regulatory requirement for
-                                    banks and other financial institutions. It mandates these
-                                    organizations to verify the identity of their clients. This
-                                    process typically involves gathering and analyzing official
-                                    identification documents and financial records. The primary
-                                    purpose of KYC is to prevent financial crimes such as money
-                                    laundering, fraud, and identity theft.</div>
-                            </article>
-                            <article aria-labelledby="ariaid-title13" class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested1" css:display="block" css:oxy-pdf-tag-type="Sect" css:page-break-after="always" id="unique_4" nd:nd-id="derivatives_trading" oid="derivatives_trading" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                                <h2 class="- topic/title concept/title glossentry/glossterm title glossterm topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:color="rgb(251 , 156 , 108)" css:display="block" css:font-size="1.5em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title13"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Derivatives Trading</span></h2>
-                                <div class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef" css:display="block" css:padding-left="35px">
-                                    <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Derivatives
-                                        trading refers to the buying, selling, and management of
-                                        financial contracts whose value is derived from underlying
-                                        assets. These contracts, known as derivatives, can be based
-                                        on various asset types, including stocks, bonds,
-                                        commodities, currencies, interest rates, and market indexes.
-                                        The practice of trading these derivatives on exchanges and
-                                        clearing them through central clearinghouses, as required by
-                                        the Act, aims to increase transparency and reduce the
-                                        associated financial risks.</p>
-                                </div>
-                            </article>
+                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title8" break-before="true" class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="avoid" id="unique_13" is-chapter="true" nd:nd-id="capital_requirements" oid="capital_requirements" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title concept/title glossentry/glossterm title glossterm topictitle1" css:bookmark-level="1" css:color="rgb(0 , 191 , 111)" css:display="block" css:font-size="24px" css:margin-bottom="20px" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title8"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="8"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="8"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text/></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">GLOSSARY</span></h1>
+                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title9" break-before="true" class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="avoid" id="unique_8" is-chapter="true" nd:nd-id="capital_requirements" oid="capital_requirements" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title concept/title glossentry/glossterm title glossterm topictitle1" css:bookmark-level="1" css:color="rgb(0 , 191 , 111)" css:display="block" css:font-size="24px" css:margin-bottom="20px" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title9"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="9"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="9"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text/></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Capital Requirements</span></h1>
+                            <div class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef" css:display="block" css:padding-left="35px">
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Derivatives trading refers to the buying, selling, and
+                                    management of financial contracts whose value is derived from
+                                    underlying assets. These contracts, known as derivatives, can be
+                                    based on various asset types, including stocks, bonds,
+                                    commodities, currencies, interest rates, and market indexes. The
+                                    practice of trading these derivatives on exchanges and clearing
+                                    them through central clearinghouses, as required by the Act,
+                                    aims to increase transparency and reduce the associated
+                                    financial risks.</p>
+                            </div>
+                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title10" break-before="true" class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="avoid" id="unique_4" is-chapter="true" nd:nd-id="derivatives_trading" oid="derivatives_trading" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title concept/title glossentry/glossterm title glossterm topictitle1" css:bookmark-level="1" css:color="rgb(0 , 191 , 111)" css:display="block" css:font-size="24px" css:margin-bottom="20px" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title10"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="10"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="10"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text/></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Derivatives Trading</span></h1>
+                            <div class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef" css:display="block" css:padding-left="35px">
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Derivatives trading refers to the buying, selling, and
+                                    management of financial contracts whose value is derived from
+                                    underlying assets. These contracts, known as derivatives, can be
+                                    based on various asset types, including stocks, bonds,
+                                    commodities, currencies, interest rates, and market indexes. The
+                                    practice of trading these derivatives on exchanges and clearing
+                                    them through central clearinghouses, as required by the Act,
+                                    aims to increase transparency and reduce the associated
+                                    financial risks.</p>
+                            </div>
+                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title11" break-before="true" class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="avoid" id="unique_6" is-chapter="true" nd:nd-id="financial_services_integration" oid="financial_services_integration" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title concept/title glossentry/glossterm title glossterm topictitle1" css:bookmark-level="1" css:color="rgb(0 , 191 , 111)" css:display="block" css:font-size="24px" css:margin-bottom="20px" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title11"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="11"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="11"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text/></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Financial Services Integration</span></h1>
+                            <div class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef" css:display="block" css:padding-left="35px">
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Financial Services Integration refers to the practice of a
+                                    single financial institution offering a combination of different
+                                    services, such as banking, insurance, and securities, to its
+                                    customers. This has become possible and prevalent due to the
+                                    Gramm-Leach-Bliley Act (GLBA) which allowed institutions to
+                                    combine these functions. While it leads to increased competition
+                                    and potentially more options for customers, it also introduces
+                                    additional complexities in managing these integrated
+                                    institutions and can increase the institution's overall risk
+                                    profile.</p>
+                            </div>
+                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title12" break-before="true" class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="avoid" id="unique_12" is-chapter="true" nd:nd-id="KYC" oid="KYC" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title concept/title glossentry/glossterm title glossterm topictitle1" css:bookmark-level="1" css:color="rgb(0 , 191 , 111)" css:display="block" css:font-size="24px" css:margin-bottom="20px" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title12"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="12"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="12"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text/></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Know Your Customer (KYC)</span></h1>
+                            <div class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef" css:display="block" css:padding-left="35px">Know Your Customer,
+                                commonly referred to as KYC, is a regulatory requirement for banks
+                                and other financial institutions. It mandates these organizations to
+                                verify the identity of their clients. This process typically
+                                involves gathering and analyzing official identification documents
+                                and financial records. The primary purpose of KYC is to prevent
+                                financial crimes such as money laundering, fraud, and identity
+                                theft.</div>
+                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title13" break-before="true" class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="avoid" id="unique_10" is-chapter="true" nd:nd-id="PCAOB" oid="PCAOB" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title concept/title glossentry/glossterm title glossterm topictitle1" css:bookmark-level="1" css:color="rgb(0 , 191 , 111)" css:display="block" css:font-size="24px" css:margin-bottom="20px" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title13"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="13"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="13"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text/></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Public Company Accounting Oversight Board
+                                    (PCAOB)</span></h1>
+                            <div class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef" css:display="block" css:padding-left="35px">
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The PCAOB is a non-profit organization established by the
+                                    Sarbanes-Oxley Act of 2002. Its purpose is to oversee the audits
+                                    of public companies and other issuers, aiming to protect the
+                                    interests of investors and further the public interest in the
+                                    preparation of informative, accurate, and independent audit
+                                    reports.</p>
+                            </div>
                         </article></div>
                 </div>
             </div>

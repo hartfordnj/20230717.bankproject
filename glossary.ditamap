@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>glossary</title>
+    <topicref href="capital_requirements.dita"/>
+    <topicref href="financial_services_integration.dita"/>
+    <topicref href="derivatives_trading.dita"></topicref>
+    
+</map>

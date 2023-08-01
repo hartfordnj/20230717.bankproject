@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LIGHTWEIGHT DITA Topic//EN" "topic.dtd">
+<topic id="untitled8">
+  <title>Key Financial Terms</title>
+  <body>
+    <p conref="derivatives_trading.dita#derivatives_trading/derivatives"></p>
+    <p conref="capital_requirements.dita#capital_requirements/capreq"></p>
+  </body>
+</topic>
