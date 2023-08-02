@@ -166,8 +166,8 @@
                                         </li>
                                         <li class="- topic/li li" css:display="list-item">
                                             <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Derivatives Trading:</strong> The Act brought
-                                                significant reform to the <a class="- topic/xref xref" css:color="rgb(213 , 81 , 33)" css:display="inline" css:link="#unique_4" href="#unique_4" type="glossentry">derivatives
-                                                  trading<css:after css:display="inline" css:font-style="italic" css:link="#unique_4"><css:text> (on page </css:text><css:target-counter url-fragment="unique_4"/><css:text>)</css:text></css:after></a>
+                                                significant reform to the <a class="- topic/xref xref" css:color="rgb(213 , 81 , 33)" css:display="inline" css:link="#unique_4_Connect_42_gloss_der" href="#unique_4_Connect_42_gloss_der" type="p">derivatives
+                                                  trading<css:after css:display="inline" css:font-style="italic" css:link="#unique_4_Connect_42_gloss_der"><css:text> (on page </css:text><css:target-counter url-fragment="unique_4_Connect_42_gloss_der"/><css:text>)</css:text></css:after></a>
                                                 , most notably requiring that many types of
                                                 derivatives be traded on exchanges and cleared
                                                 through central clearinghouses. This increases
@@ -267,8 +267,9 @@
                                         the key areas of impact:</p>
                                     <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
                                         <li class="- topic/li li" css:display="list-item">
-                                            <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold"><a class="- topic/xref xref" css:color="rgb(213 , 81 , 33)" css:display="inline" css:link="#unique_6" href="#unique_6" type="glossentry"> Financial Services
-                                                  Integration<css:after css:display="inline" css:font-style="italic" css:link="#unique_6"><css:text> (on page </css:text><css:target-counter url-fragment="unique_6"/><css:text>)</css:text></css:after></a>:</strong>
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold"><a class="- topic/xref xref" css:color="rgb(213 , 81 , 33)" css:display="inline" css:link="#unique_4_Connect_42_gloss_fsi" href="#unique_4_Connect_42_gloss_fsi" type="p">
+                                                  Financial Services
+                                                  Integration<css:after css:display="inline" css:font-style="italic" css:link="#unique_4_Connect_42_gloss_fsi"><css:text> (on page </css:text><css:target-counter url-fragment="unique_4_Connect_42_gloss_fsi"/><css:text>)</css:text></css:after></a>:</strong>
                                                 GLBA has allowed institutions to offer a combination
                                                 of banking, insurance, and securities services. This
                                                 has led to increased competition among providers,
@@ -313,7 +314,7 @@
                                         continue to be debated.</p>
                                 </section>
                             </div>
-                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title5" break-before="true" class="- topic/topic topic nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="always" id="unique_7" is-chapter="true" nd:nd-id="Reg_BaselIII" oid="Reg_BaselIII" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title5" break-before="true" class="- topic/topic topic nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="always" id="unique_6" is-chapter="true" nd:nd-id="Reg_BaselIII" oid="Reg_BaselIII" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
                             <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:color="rgb(0 , 191 , 111)" css:display="block" css:font-size="24px" css:margin-bottom="20px" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title5"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="5"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="5"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text/></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Basel III Regulations</span></h1>
                             <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
                                 <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Basel III is a set of international
@@ -321,7 +322,7 @@
                                     Supervision (BCBS), aimed at improving the banking sector's
                                     ability to handle financial and economic stress, improve risk
                                     management, and strengthen banks' transparency.</p>
-                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_7_Connect_42_ToPutItPlainly" nd:nd-id="ToPutItPlainly">
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_6_Connect_42_ToPutItPlainly" nd:nd-id="ToPutItPlainly">
                                     <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>To
                                         Put It Plainly</h2>
                                     <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
@@ -345,7 +346,7 @@
                                             transparent for everyone.</li>
                                     </ul>
                                 </section>
-                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_7_Connect_42_History" nd:nd-id="History">
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_6_Connect_42_History" nd:nd-id="History">
                                     <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>History</h2>
                                     <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The
                                         Sarbanes-Oxley Act (SOX) was signed into law on July 30,
@@ -371,7 +372,7 @@
                                         CFOs accountable for the financial statements of their
                                         companies.</p>
                                 </section>
-                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_7_Connect_42_ReasonForCreation" nd:nd-id="ReasonForCreation">
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_6_Connect_42_ReasonForCreation" nd:nd-id="ReasonForCreation">
                                     <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>Reason
                                         for Creation</h2>
                                     <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Basel III was
@@ -385,7 +386,7 @@
                                         strong capital base, which can absorb losses and continue
                                         operations under financial and economic stress.</p>
                                 </section>
-                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_7_Connect_42_Impact" nd:nd-id="Impact">
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_6_Connect_42_Impact" nd:nd-id="Impact">
                                     <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>Consumer
                                         and Business Impact</h2>
                                     <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The Basel III
@@ -397,8 +398,8 @@
                                         the key areas of impact:</p>
                                     <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
                                         <li class="- topic/li li" css:display="list-item">
-                                            <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold"><a class="- topic/xref xref" css:color="rgb(213 , 81 , 33)" css:display="inline" css:link="#unique_8" href="#unique_8" type="glossentry">Capital
-                                                  Requirements<css:after css:display="inline" css:font-style="italic" css:link="#unique_8"><css:text> (on page </css:text><css:target-counter url-fragment="unique_8"/><css:text>)</css:text></css:after></a>:</strong>
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold"><a class="- topic/xref xref" css:color="rgb(213 , 81 , 33)" css:display="inline" css:link="#unique_4_Connect_42_gloss_cap" href="#unique_4_Connect_42_gloss_cap" type="p">Capital
+                                                  Requirements<css:after css:display="inline" css:font-style="italic" css:link="#unique_4_Connect_42_gloss_cap"><css:text> (on page </css:text><css:target-counter url-fragment="unique_4_Connect_42_gloss_cap"/><css:text>)</css:text></css:after></a>:</strong>
                                                 Basel III significantly increased the capital
                                                 requirements for banks. This has forced many
                                                 institutions to raise more capital, altering the
@@ -441,14 +442,14 @@
                                         financial exclusion.</p>
                                 </section>
                             </div>
-                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title6" break-before="true" class="- topic/topic topic nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="always" id="unique_9" is-chapter="true" nd:nd-id="Reg_SOX" oid="Reg_SOX" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title6" break-before="true" class="- topic/topic topic nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="always" id="unique_7" is-chapter="true" nd:nd-id="Reg_SOX" oid="Reg_SOX" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
                             <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:color="rgb(0 , 191 , 111)" css:display="block" css:font-size="24px" css:margin-bottom="20px" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title6"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="6"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="6"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text/></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Sarbanes-Oxley Act (SOX)</span></h1>
                             <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
                                 <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The Sarbanes-Oxley Act, often known as
                                     SOX, is a United States federal law enacted in 2002 that sets
                                     standards for all U.S. public company boards, management, and
                                     public accounting firms.</p>
-                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_9_Connect_42_ToPutItPlainly" nd:nd-id="ToPutItPlainly">
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_7_Connect_42_ToPutItPlainly" nd:nd-id="ToPutItPlainly">
                                     <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>To
                                         Put It Plainly</h2>
                                     <ol class="- topic/ol ol" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
@@ -466,9 +467,9 @@
                                             management, and accounting firms. It imposes more
                                             stringent record-keeping requirements, mandates the
                                             independence of the firms that audit public companies,
-                                            and establishes the <a class="- topic/xref xref" css:color="rgb(213 , 81 , 33)" css:display="inline" css:link="#unique_10" format="dita" href="#unique_10" type="glossentry">Public Company Accounting
-                                                Oversight Board
-                                                (PCAOB)<css:after css:display="inline" css:font-style="italic" css:link="#unique_10"><css:text> (on page </css:text><css:target-counter url-fragment="unique_10"/><css:text>)</css:text></css:after></a>
+                                            and establishes the <a class="- topic/xref xref" css:color="rgb(213 , 81 , 33)" css:display="inline" css:link="#unique_4_Connect_42_gloss_pcaob" format="dita" href="#unique_4_Connect_42_gloss_pcaob" type="p">Public
+                                                Company Accounting Oversight Board
+                                                (PCAOB)<css:after css:display="inline" css:font-style="italic" css:link="#unique_4_Connect_42_gloss_pcaob"><css:text> (on page </css:text><css:target-counter url-fragment="unique_4_Connect_42_gloss_pcaob"/><css:text>)</css:text></css:after></a>
                                             to oversee these auditors.</li>
                                         <li class="- topic/li li" css:display="list-item">The Act
                                             was designed primarily to protect investors by improving
@@ -482,7 +483,7 @@
                                             the financial statements.</li>
                                     </ol>
                                 </section>
-                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_9_Connect_42_History" nd:nd-id="History">
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_7_Connect_42_History" nd:nd-id="History">
                                     <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>History</h2>
                                     <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The
                                         Sarbanes-Oxley Act (SOX) was signed into law on July 30,
@@ -508,7 +509,7 @@
                                         CFOs accountable for the financial statements of their
                                         companies.</p>
                                 </section>
-                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_9_Connect_42_ReasonForCreation" nd:nd-id="ReasonForCreation">
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_7_Connect_42_ReasonForCreation" nd:nd-id="ReasonForCreation">
                                     <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>Reason
                                         for Creation</h2>
                                     <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The
@@ -540,7 +541,7 @@
                                         corporate governance and aims to restore and maintain
                                         investor confidence in the stock market.</p>
                                 </section>
-                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_9_Connect_42_Impact" nd:nd-id="Impact">
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_7_Connect_42_Impact" nd:nd-id="Impact">
                                     <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>Consumer
                                         and Business Impact</h2>
                                     <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The
@@ -592,13 +593,13 @@
                                         consumers.</p>
                                 </section>
                             </div>
-                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title7" break-before="true" class="- topic/topic topic nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="always" id="unique_11" is-chapter="true" nd:nd-id="Reg_BSA" oid="Reg_BSA" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title7" break-before="true" class="- topic/topic topic nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="always" id="unique_8" is-chapter="true" nd:nd-id="Reg_BSA" oid="Reg_BSA" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
                             <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:color="rgb(0 , 191 , 111)" css:display="block" css:font-size="24px" css:margin-bottom="20px" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title7"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="7"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="7"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text/></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Bank Secrecy Act (BSA)</span></h1>
                             <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
                                 <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The Bank Secrecy Act (BSA), passed in
                                     1970, is a U.S. law aimed at preventing and detecting money
                                     laundering, tax evasion, and other financial crimes.</p>
-                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_11_Connect_42_ToPutItPlainly" nd:nd-id="ToPutItPlainly">
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_8_Connect_42_ToPutItPlainly" nd:nd-id="ToPutItPlainly">
                                     <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>To
                                         Put It Plainly</h2>
                                     <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
@@ -610,8 +611,8 @@
                                             $10,000 and to report suspicious activities that could
                                             be related to money laundering or fraud.</li>
                                         <li class="- topic/li li" css:display="list-item">The BSA
-                                            also established the requirement for banks to <a class="- topic/xref xref" css:color="rgb(213 , 81 , 33)" css:display="inline" css:link="#unique_12" href="#unique_12" type="glossentry">know their
-                                                customers<css:after css:display="inline" css:font-style="italic" css:link="#unique_12"><css:text> (on page </css:text><css:target-counter url-fragment="unique_12"/><css:text>)</css:text></css:after></a>,
+                                            also established the requirement for banks to <a class="- topic/xref xref" css:color="rgb(213 , 81 , 33)" css:display="inline" css:link="#unique_4_Connect_42_gloss_kyc" href="#unique_4_Connect_42_gloss_kyc" type="p">know their
+                                                customers<css:after css:display="inline" css:font-style="italic" css:link="#unique_4_Connect_42_gloss_kyc"><css:text> (on page </css:text><css:target-counter url-fragment="unique_4_Connect_42_gloss_kyc"/><css:text>)</css:text></css:after></a>,
                                             which helps prevent identity theft and other forms of
                                             fraud.</li>
                                         <li class="- topic/li li" css:display="list-item">Over the
@@ -624,7 +625,7 @@
                                             their illegal activities.</li>
                                     </ul>
                                 </section>
-                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_11_Connect_42_History" nd:nd-id="History">
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_8_Connect_42_History" nd:nd-id="History">
                                     <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>History</h2>
                                     <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The Bank Secrecy
                                         Act, also known as the Currency and Foreign Transactions
@@ -639,7 +640,7 @@
                                         Act's provisions in response to the September 11 terrorist
                                         attacks.</p>
                                 </section>
-                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_11_Connect_42_ReasonForCreation" nd:nd-id="ReasonForCreation">
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_8_Connect_42_ReasonForCreation" nd:nd-id="ReasonForCreation">
                                     <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>Reason
                                         for Creation</h2>
                                     <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The BSA was
@@ -657,7 +658,7 @@
                                         furthering its original objective of detecting and deterring
                                         financial crimes.</p>
                                 </section>
-                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_11_Connect_42_Impact" nd:nd-id="Impact">
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_8_Connect_42_Impact" nd:nd-id="Impact">
                                     <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="bold" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>Consumer
                                         and Business Impact</h2>
                                     <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The Bank Secrecy
@@ -701,68 +702,134 @@
                                         activities.</p>
                                 </section>
                             </div>
-                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title8" break-before="true" class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="avoid" id="unique_13" is-chapter="true" nd:nd-id="capital_requirements" oid="capital_requirements" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                            <h1 class="- topic/title concept/title glossentry/glossterm title glossterm topictitle1" css:bookmark-level="1" css:color="rgb(0 , 191 , 111)" css:display="block" css:font-size="24px" css:margin-bottom="20px" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title8"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="8"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="8"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text/></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">GLOSSARY</span></h1>
-                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title9" break-before="true" class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="avoid" id="unique_8" is-chapter="true" nd:nd-id="capital_requirements" oid="capital_requirements" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                            <h1 class="- topic/title concept/title glossentry/glossterm title glossterm topictitle1" css:bookmark-level="1" css:color="rgb(0 , 191 , 111)" css:display="block" css:font-size="24px" css:margin-bottom="20px" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title9"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="9"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="9"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text/></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Capital Requirements</span></h1>
-                            <div class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef" css:display="block" css:padding-left="35px">
-                                <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Derivatives trading refers to the buying, selling, and
-                                    management of financial contracts whose value is derived from
-                                    underlying assets. These contracts, known as derivatives, can be
-                                    based on various asset types, including stocks, bonds,
+                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title8" break-before="true" class="- topic/topic topic nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="always" id="unique_4" is-chapter="true" nd:nd-id="glossary0801" oid="glossary0801" specializations="" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:color="rgb(0 , 191 , 111)" css:display="block" css:font-size="24px" css:margin-bottom="20px" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title8"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="8"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="8"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text/></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Key Financial Terms</span></h1>
+                            <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em" id="unique_4_Connect_42_gloss_der" nd:nd-id="gloss_der">
+                                    <span class="- topic/ph ph" css:display="inline"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Derivatives
+                                        Trading:</strong></span> This refers to the buying, selling,
+                                    and management of financial contracts whose value is derived
+                                    from underlying assets. These contracts, known as derivatives,
+                                    can be based on various asset types, including stocks, bonds,
                                     commodities, currencies, interest rates, and market indexes. The
                                     practice of trading these derivatives on exchanges and clearing
                                     them through central clearinghouses, as required by the Act,
                                     aims to increase transparency and reduce the associated
-                                    financial risks.</p>
-                            </div>
-                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title10" break-before="true" class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="avoid" id="unique_4" is-chapter="true" nd:nd-id="derivatives_trading" oid="derivatives_trading" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                            <h1 class="- topic/title concept/title glossentry/glossterm title glossterm topictitle1" css:bookmark-level="1" css:color="rgb(0 , 191 , 111)" css:display="block" css:font-size="24px" css:margin-bottom="20px" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title10"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="10"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="10"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text/></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Derivatives Trading</span></h1>
-                            <div class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef" css:display="block" css:padding-left="35px">
-                                <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Derivatives trading refers to the buying, selling, and
-                                    management of financial contracts whose value is derived from
-                                    underlying assets. These contracts, known as derivatives, can be
-                                    based on various asset types, including stocks, bonds,
-                                    commodities, currencies, interest rates, and market indexes. The
-                                    practice of trading these derivatives on exchanges and clearing
-                                    them through central clearinghouses, as required by the Act,
-                                    aims to increase transparency and reduce the associated
-                                    financial risks.</p>
-                            </div>
-                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title11" break-before="true" class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="avoid" id="unique_6" is-chapter="true" nd:nd-id="financial_services_integration" oid="financial_services_integration" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
-                            <h1 class="- topic/title concept/title glossentry/glossterm title glossterm topictitle1" css:bookmark-level="1" css:color="rgb(0 , 191 , 111)" css:display="block" css:font-size="24px" css:margin-bottom="20px" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title11"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="11"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="11"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text/></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Financial Services Integration</span></h1>
-                            <div class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef" css:display="block" css:padding-left="35px">
-                                <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Financial Services Integration refers to the practice of a
-                                    single financial institution offering a combination of different
-                                    services, such as banking, insurance, and securities, to its
-                                    customers. This has become possible and prevalent due to the
-                                    Gramm-Leach-Bliley Act (GLBA) which allowed institutions to
+                                    financial risks. </p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em" id="unique_4_Connect_42_gloss_fsi" nd:nd-id="gloss_fsi">
+                                    <span class="- topic/ph ph" css:display="inline"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Financial Services
+                                            Integration:</strong></span> This refers to the practice
+                                    of a single financial institution offering a combination of
+                                    different services, such as banking, insurance, and securities,
+                                    to its customers. This has become possible and prevalent due to
+                                    the Gramm-Leach-Bliley Act (GLBA) which allowed institutions to
                                     combine these functions. While it leads to increased competition
                                     and potentially more options for customers, it also introduces
                                     additional complexities in managing these integrated
                                     institutions and can increase the institution's overall risk
-                                    profile.</p>
+                                    profile. </p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em" id="unique_4_Connect_42_gloss_cap" nd:nd-id="gloss_cap">
+                                    <span class="- topic/ph ph" css:display="inline"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Capital
+                                        Requirements:</strong></span>These refer to the minimum
+                                    amount of financial resources that banks and other financial
+                                    institutions are required to have on hand by regulatory
+                                    authorities. These requirements are in place to ensure that the
+                                    institution can meet its obligations to its depositors and other
+                                    creditors, cover operational risks, and continue operations in
+                                    the event of financial loss. They act as a safeguard against
+                                    financial insolvency and contribute to the stability of the
+                                    financial system. </p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em" id="unique_4_Connect_42_gloss_pcaob" nd:nd-id="gloss_pcaob">
+                                    <span class="- topic/ph ph" css:display="inline"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Public Company Accounting
+                                            Oversight Board (PCAOB):</strong></span> The PCAOB is a
+                                    non-profit organization established by the Sarbanes-Oxley Act of
+                                    2002. Its purpose is to oversee the audits of public companies
+                                    and other issuers, aiming to protect the interests of investors
+                                    and further the public interest in the preparation of
+                                    informative, accurate, and independent audit reports. </p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em" id="unique_4_Connect_42_gloss_kyc" nd:nd-id="gloss_kyc">
+                                    <span class="- topic/ph ph" css:display="inline"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Know Your Customer
+                                            (KYC):</strong></span> Commonly referred to as KYC, this
+                                    is a regulatory requirement for banks and other financial
+                                    institutions. It mandates these organizations to verify the
+                                    identity of their clients. This process typically involves
+                                    gathering and analyzing official identification documents and
+                                    financial records. The primary purpose of KYC is to prevent
+                                    financial crimes such as money laundering, fraud, and identity
+                                    theft. </p>
+                            </div>
+                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title9" break-before="true" class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="avoid" id="unique_9" is-chapter="true" nd:nd-id="capital_requirements" oid="capital_requirements" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title concept/title glossentry/glossterm title glossterm topictitle1" css:bookmark-level="1" css:color="rgb(0 , 191 , 111)" css:display="block" css:font-size="24px" css:margin-bottom="20px" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title9"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="9"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="9"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text/></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Capital Requirements</span></h1>
+                            <div class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef" css:display="block" css:padding-left="35px">
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em" id="unique_9_Connect_42_capreq" nd:nd-id="capreq">
+                                    <span class="- topic/ph ph" css:display="inline"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Capital
+                                        Requirements:</strong></span>These refer to the minimum
+                                    amount of financial resources that banks and other financial
+                                    institutions are required to have on hand by regulatory
+                                    authorities. These requirements are in place to ensure that the
+                                    institution can meet its obligations to its depositors and other
+                                    creditors, cover operational risks, and continue operations in
+                                    the event of financial loss. They act as a safeguard against
+                                    financial insolvency and contribute to the stability of the
+                                    financial system. </p>
+                            </div>
+                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title10" break-before="true" class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="avoid" id="unique_10" is-chapter="true" nd:nd-id="derivatives_trading" oid="derivatives_trading" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title concept/title glossentry/glossterm title glossterm topictitle1" css:bookmark-level="1" css:color="rgb(0 , 191 , 111)" css:display="block" css:font-size="24px" css:margin-bottom="20px" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title10"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="10"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="10"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text/></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Derivatives Trading</span></h1>
+                            <div class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef" css:display="block" css:padding-left="35px">
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em" id="unique_10_Connect_42_derivatives" nd:nd-id="derivatives">
+                                    <span class="- topic/ph ph" css:display="inline"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Derivatives
+                                        Trading:</strong></span> This refers to the buying, selling,
+                                    and management of financial contracts whose value is derived
+                                    from underlying assets. These contracts, known as derivatives,
+                                    can be based on various asset types, including stocks, bonds,
+                                    commodities, currencies, interest rates, and market indexes. The
+                                    practice of trading these derivatives on exchanges and clearing
+                                    them through central clearinghouses, as required by the Act,
+                                    aims to increase transparency and reduce the associated
+                                    financial risks. </p>
+                            </div>
+                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title11" break-before="true" class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="avoid" id="unique_11" is-chapter="true" nd:nd-id="financial_services_integration" oid="financial_services_integration" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title concept/title glossentry/glossterm title glossterm topictitle1" css:bookmark-level="1" css:color="rgb(0 , 191 , 111)" css:display="block" css:font-size="24px" css:margin-bottom="20px" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title11"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="11"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="11"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text/></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Financial Services Integration</span></h1>
+                            <div class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef" css:display="block" css:padding-left="35px">
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em" id="unique_11_Connect_42_fin_serv_integ" nd:nd-id="fin_serv_integ">
+                                    <span class="- topic/ph ph" css:display="inline"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Financial Services
+                                            Integration:</strong></span> This refers to the practice
+                                    of a single financial institution offering a combination of
+                                    different services, such as banking, insurance, and securities,
+                                    to its customers. This has become possible and prevalent due to
+                                    the Gramm-Leach-Bliley Act (GLBA) which allowed institutions to
+                                    combine these functions. While it leads to increased competition
+                                    and potentially more options for customers, it also introduces
+                                    additional complexities in managing these integrated
+                                    institutions and can increase the institution's overall risk
+                                    profile. </p>
                             </div>
                         </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title12" break-before="true" class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="avoid" id="unique_12" is-chapter="true" nd:nd-id="KYC" oid="KYC" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
                             <h1 class="- topic/title concept/title glossentry/glossterm title glossterm topictitle1" css:bookmark-level="1" css:color="rgb(0 , 191 , 111)" css:display="block" css:font-size="24px" css:margin-bottom="20px" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title12"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="12"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="12"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text/></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Know Your Customer (KYC)</span></h1>
-                            <div class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef" css:display="block" css:padding-left="35px">Know Your Customer,
-                                commonly referred to as KYC, is a regulatory requirement for banks
-                                and other financial institutions. It mandates these organizations to
-                                verify the identity of their clients. This process typically
-                                involves gathering and analyzing official identification documents
-                                and financial records. The primary purpose of KYC is to prevent
-                                financial crimes such as money laundering, fraud, and identity
-                                theft.</div>
-                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title13" break-before="true" class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="avoid" id="unique_10" is-chapter="true" nd:nd-id="PCAOB" oid="PCAOB" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <div class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef" css:display="block" css:padding-left="35px">
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em" id="unique_12_Connect_42_kyc_def" nd:nd-id="kyc_def">
+                                    <span class="- topic/ph ph" css:display="inline"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Know Your Customer
+                                            (KYC):</strong></span> Commonly referred to as KYC, this
+                                    is a regulatory requirement for banks and other financial
+                                    institutions. It mandates these organizations to verify the
+                                    identity of their clients. This process typically involves
+                                    gathering and analyzing official identification documents and
+                                    financial records. The primary purpose of KYC is to prevent
+                                    financial crimes such as money laundering, fraud, and identity
+                                    theft. </p>
+                            </div>
+                        </article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title13" break-before="true" class="- topic/topic concept/concept glossentry/glossentry topic concept glossentry nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-after="avoid" id="unique_13" is-chapter="true" nd:nd-id="PCAOB" oid="PCAOB" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
                             <h1 class="- topic/title concept/title glossentry/glossterm title glossterm topictitle1" css:bookmark-level="1" css:color="rgb(0 , 191 , 111)" css:display="block" css:font-size="24px" css:margin-bottom="20px" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title13"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="13"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="13"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text/></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Public Company Accounting Oversight Board
                                     (PCAOB)</span></h1>
                             <div class="- topic/abstract concept/abstract glossentry/glossdef abstract glossdef" css:display="block" css:padding-left="35px">
-                                <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">The PCAOB is a non-profit organization established by the
-                                    Sarbanes-Oxley Act of 2002. Its purpose is to oversee the audits
-                                    of public companies and other issuers, aiming to protect the
-                                    interests of investors and further the public interest in the
-                                    preparation of informative, accurate, and independent audit
-                                    reports.</p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="1em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em" id="unique_13_Connect_42_pcaob_def" nd:nd-id="pcaob_def">
+                                    <span class="- topic/ph ph" css:display="inline"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Public Company Accounting
+                                            Oversight Board (PCAOB):</strong></span> The PCAOB is a
+                                    non-profit organization established by the Sarbanes-Oxley Act of
+                                    2002. Its purpose is to oversee the audits of public companies
+                                    and other issuers, aiming to protect the interests of investors
+                                    and further the public interest in the preparation of
+                                    informative, accurate, and independent audit reports. </p>
                             </div>
                         </article></div>
                 </div>

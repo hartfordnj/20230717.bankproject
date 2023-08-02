@@ -3,6 +3,8 @@
 <glossentry id="financial_services_integration">
   <glossterm>Financial Services Integration</glossterm>
   <glossdef>
-    <p>Financial Services Integration refers to the practice of a single financial institution offering a combination of different services, such as banking, insurance, and securities, to its customers. This has become possible and prevalent due to the Gramm-Leach-Bliley Act (GLBA) which allowed institutions to combine these functions. While it leads to increased competition and potentially more options for customers, it also introduces additional complexities in managing these integrated institutions and can increase the institution's overall risk profile.</p>
+    <p id="fin_serv_integ">
+      <ph><b>Financial Services Integration:</b></ph> This refers to the practice of a single financial institution offering a combination of different services, such as banking, insurance, and securities, to its customers. This has become possible and prevalent due to the Gramm-Leach-Bliley Act (GLBA) which allowed institutions to combine these functions. While it leads to increased competition and potentially more options for customers, it also introduces additional complexities in managing these integrated institutions and can increase the institution's overall risk profile.
+    </p>
   </glossdef>
 </glossentry>

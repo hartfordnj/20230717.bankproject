@@ -10,14 +10,13 @@
     <topicref href="reg_sox.dita"/>
     <topicref href="reg_bsa.dita"/>
     <topicref href="reg_or_oregon_trust_code.dita"/>
+    <topicref href="glossary0801.dita"/>
     <topicref href="reusables/reusable_content.ditamap" format="ditamap"
         processing-role="resource-only"/>
-    <topicref href="glossary_title1.dita"/>
     <topicref href="capital_requirements.dita"/>
     <topicref href="derivatives_trading.dita"/>
     <topicref href="financial_services_integration.dita"/>
     <topicref href="kyc.dita"/>
     <topicref href="pcaob.dita"/>
     <topicref href="settlor.dita"/>
-    <topicref href="untitled8.dita"/>
 </map>
