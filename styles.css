@@ -23,6 +23,24 @@ a {
     text-decoration: none;
 }
 
+@page {
+    @bottom-center {
+        content: "Pine Vista Bank | 2023";
+    }
+}
+
+@page cover-page {
+    @bottom-center {
+        content: "";
+    }
+}
+
+@page last-page {
+    @bottom-center {
+        content: "";
+    }
+}
+
 *[class ~= "map/topicref"][is-chapter]:not([is-part]) > *[class ~= "map/topicmeta"] > *[class ~= "topic/navtitle"]:before {
   content: "";
 }

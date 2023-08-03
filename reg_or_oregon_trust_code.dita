@@ -6,7 +6,7 @@
   <shortdesc>The Oregon Trust Code is a set of regulations that govern the creation, modification, and administration of trusts in the state of Oregon, including banking trusts.</shortdesc>
   
   <body>
-    <note type="caution" conref="reusables/reusable_components.dita#reusable_components/oregon_note"/>
+    <note type="tip" conref="reusables/reusable_components.dita#reusable_components/oregon_note"/>
     
     <section id="ToPutItPlainly">
       <title>To Put It Plainly</title>
