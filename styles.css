@@ -59,3 +59,12 @@ h1.title {
     color: #00Bf6f;
     margin-bottom: 20px;
 }
+
+.fdic-info {
+    font-weight: bold;
+    color: red;
+    border: 2px solid black; 
+    padding: 10px;
+    margin: 10px 0;
+}
+
