@@ -12,7 +12,7 @@
       <ol>
         <li>The Sarbanes-Oxley Act, commonly known as SOX, was established in 2002 in the wake of financial scandals like Enron and WorldCom, where significant accounting fraud occurred.</li>
         <li>This law applies to all publicly traded U.S. companies, including their management and accounting firms, aiming to increase transparency and protect investors.</li>
-        <li>SOX sets numerous standards and requirements for company boards, management, and accounting firms. It imposes more stringent record-keeping requirements, mandates the independence of the firms that audit public companies, and establishes the  <xref href="glossary0801.dita#glossary0801/gloss_pcaob" format="dita">Public Company Accounting Oversight Board (PCAOB)</xref> to oversee these auditors.</li>
+        <li>SOX sets numerous standards and requirements for company boards, management, and accounting firms. It imposes more stringent record-keeping requirements, mandates the independence of the firms that audit public companies, and establishes the  <xref href="pcaob.dita#PCAOB" format="dita">Public Company Accounting Oversight Board (PCAOB)</xref> to oversee these auditors.</li>
         
         <li>The Act was designed primarily to protect investors by improving the accuracy and reliability of corporate disclosures, thus fostering trust in the U.S. financial system.</li>
         <li>Failure to comply with SOX can result in severe penalties, including hefty fines and imprisonment. It holds top management accountable for the accuracy of financial information, with the CEO and CFO required to certify the financial statements.</li>

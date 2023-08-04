@@ -23,42 +23,12 @@ a {
     text-decoration: none;
 }
 
-@page {
-    @bottom-center {
-        content: "Pine Vista Bank | 2023";
-    }
-}
-
-
-
-@page cover-page{
-    @bottom-left {
-        content: "";
-    }
-}
-
-
-
-
-@page last-page {
-    @bottom-center {
-        content: "";
-    }
-}
-
-
-@page {
-    @top-center {
-        content: none;
-    }
-}
-
 *[class ~= "map/topicref"][is-chapter]:not([is-part]) > *[class ~= "map/topicmeta"] > *[class ~= "topic/navtitle"]:before {
-    content: "";
+  content: "";
 }
 
 *[class ~= "topic/topic"][is-chapter]:not([is-part]) > *[class ~= "topic/title"]:before {
-    content: "";
+  content: "";
 }
 
 *[outputclass~="large-cover"] {
@@ -66,24 +36,18 @@ a {
     height: auto;
 }
 
-
-
 @media print {
-    @page {
-        margin: 0.75in;
-    }
+	@page {
+		margin: 0.75in;
+	}
 }
 
-@page chapter {
-    -oxy-initial-page-number: auto-odd;
+@page chapter{
+  -oxy-initial-page-number: auto-odd;
 }
-
-.topic:not(.glossentry) {
+    
+.topic {
     page-break-after: always;
-}
-
-.glossentry {
-    page-break-after: avoid;
 }
 
 h1.title {
@@ -91,31 +55,5 @@ h1.title {
     color: #00Bf6f;
     margin-bottom: 20px;
 }
+		
 
-.fdic-info {
-    font-weight: bold;
-    color: red;
-    border: 2px solid black;
-    padding: 10px;
-    margin: 10px 0;
-}
-
-
-/*left-pages-header-empty*/
-@page :left {
-  @top-left {
-    content: none;
-  }
-}
-/*right-pages-header-empty*/
-@page :right {
-  @top-right {
-    content: none;
-  }
-}
-/*right-pages-footer-page*/
-@page :right {
-  @bottom-right {
-    content: "Page " counter(page);
-  }
-}

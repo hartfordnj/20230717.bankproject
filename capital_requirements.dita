@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossentry.dtd">
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="capital_requirements">
   <glossterm>Capital Requirements</glossterm>
-  <glossdef>
-    <p id="capreq">
-      <ph><b>Capital Requirements:</b></ph>These refer to the minimum amount of financial resources that banks and other financial institutions are required to have on hand by regulatory authorities. These requirements are in place to ensure that the institution can meet its obligations to its depositors and other creditors, cover operational risks, and continue operations in the event of financial loss. They act as a safeguard against financial insolvency and contribute to the stability of the financial system.
-    </p>
-  </glossdef>
+  <glossdef>In the context of banking and financial regulation, capital requirements refer to the minimum amount of equity a bank must hold as a percentage of its risk-weighted assets. These requirements are put in place by regulatory authorities to ensure banks can absorb a reasonable amount of loss and comply with their obligation to depositors and other creditors. In the Basel III regulations, capital requirements are significantly increased to improve the resilience and stability of the global banking system.</glossdef>
 </glossentry>
