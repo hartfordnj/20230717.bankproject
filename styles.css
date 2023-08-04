@@ -99,3 +99,23 @@ h1.title {
     padding: 10px;
     margin: 10px 0;
 }
+
+
+/*left-pages-header-empty*/
+@page :left {
+  @top-left {
+    content: none;
+  }
+}
+/*right-pages-header-empty*/
+@page :right {
+  @top-right {
+    content: none;
+  }
+}
+/*right-pages-footer-page*/
+@page :right {
+  @bottom-right {
+    content: "Page " counter(page);
+  }
+}
