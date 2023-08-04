@@ -32,7 +32,7 @@ a {
 
 
 @page cover-page{
-    @bottom-left {
+    @bottom-center {
         content: "";
     }
 }
