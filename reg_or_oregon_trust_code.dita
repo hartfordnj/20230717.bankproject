@@ -6,7 +6,7 @@
   <shortdesc>The Oregon Trust Code is a set of regulations that govern the creation, modification, and administration of trusts in the state of Oregon, including banking trusts.</shortdesc>
   
   <body>
-    <note type="caution" conref="reusables/reusable_components.dita#reusable_components/oregon_note"/>
+    <note type="tip" conref="reusables/reusable_components.dita#reusable_components/oregon_note"/>
     
     <section id="ToPutItPlainly">
       <title>To Put It Plainly</title>
@@ -33,7 +33,9 @@
     
     <section id="Impact">
       <title>Consumer and Trust Beneficiary Impact</title>
-      <p>The Oregon Trust Code has a significant impact on trust creators (known as "settlors"), trustees, and trust beneficiaries in Oregon. The Code provides clear rules that govern the administration of trusts, influencing both the creation of new trusts and the management of existing ones.</p>
+      <p>The Oregon Trust Code has a significant impact on trust creators (known as 
+        <xref href="glossary0801.dita#glossary0801/gloss_set">"settlors"</xref>), trustees, and trust beneficiaries in Oregon. The Code provides clear rules that govern the administration of trusts, influencing both the creation of new trusts and the management of existing ones.
+      </p>
       <p>Here are some of the most frequently impacted areas:</p>
       
       <ul>
