@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\TheGi\Desktop\20230717.bankproject\temp\pdf-css-html5\oxygen_dita_temp?><?workdir-uri file:/C:/Users/TheGi/Desktop/20230717.bankproject/temp/pdf-css-html5/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD LIGHTWEIGHT DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- topic/topic " ditaarch:DITAArchVersion="1.3" domains="(topic xdita-c) (topic hi-d) (topic h5m-d)" id="backmatter" outputclass="last-page" specializations="" xtrc="topic:1;3:48" xtrf="file:/C:/Users/TheGi/Desktop/20230717.bankproject/backmatter.dita">
+  <title class="- topic/title " xtrc="title:1;4:10" xtrf="file:/C:/Users/TheGi/Desktop/20230717.bankproject/backmatter.dita">Pine Vista Bank | 2023</title>
+ 
+  <body class="- topic/body " xtrc="body:1;6:9" xtrf="file:/C:/Users/TheGi/Desktop/20230717.bankproject/backmatter.dita">
+    <p class="- topic/p " xtrc="p:1;7:8" xtrf="file:/C:/Users/TheGi/Desktop/20230717.bankproject/backmatter.dita"/>
+    <p class="- topic/p " xtrc="p:2;8:8" xtrf="file:/C:/Users/TheGi/Desktop/20230717.bankproject/backmatter.dita"/>
+    <p class="- topic/p " xtrc="p:3;9:8" xtrf="file:/C:/Users/TheGi/Desktop/20230717.bankproject/backmatter.dita"/>
+    <p class="- topic/p " xtrc="p:4;10:8" xtrf="file:/C:/Users/TheGi/Desktop/20230717.bankproject/backmatter.dita"/>
+    <p class="- topic/p " xtrc="p:5;11:8" xtrf="file:/C:/Users/TheGi/Desktop/20230717.bankproject/backmatter.dita"/>
+    <p class="- topic/p " xtrc="p:6;12:8" xtrf="file:/C:/Users/TheGi/Desktop/20230717.bankproject/backmatter.dita"/>
+    <p class="- topic/p " xtrc="p:7;13:8" xtrf="file:/C:/Users/TheGi/Desktop/20230717.bankproject/backmatter.dita">At Pine Vista Bank, we're here for you. Thank you for choosing us as your trusted financial partner.</p>
+    <p class="- topic/p " xtrc="p:8;14:8" xtrf="file:/C:/Users/TheGi/Desktop/20230717.bankproject/backmatter.dita">Main Office: 1234 Pine Street, Vancouver, WA 99999</p>
+    <p class="- topic/p " xtrc="p:9;15:8" xtrf="file:/C:/Users/TheGi/Desktop/20230717.bankproject/backmatter.dita">Phone: 1-80A-123-4567</p>
+    <p class="- topic/p " xtrc="p:10;16:8" xtrf="file:/C:/Users/TheGi/Desktop/20230717.bankproject/backmatter.dita">Email: info@pinevistabank.xom</p>
+    <p class="- topic/p " xtrc="p:11;17:8" xtrf="file:/C:/Users/TheGi/Desktop/20230717.bankproject/backmatter.dita">Website: www.pinevistabank.xom</p>
+    <p class="- topic/p " xtrc="p:12;18:8" xtrf="file:/C:/Users/TheGi/Desktop/20230717.bankproject/backmatter.dita">Follow us on LinkedIn and Twitter for the latest updates.</p>
+    
+    <p class="- topic/p " outputclass="centered-image" xtrc="p:13;20:37" xtrf="file:/C:/Users/TheGi/Desktop/20230717.bankproject/backmatter.dita">
+      <image class="- topic/image " href="images/sole.png" xtrc="image:1;21:37" xtrf="file:/C:/Users/TheGi/Desktop/20230717.bankproject/backmatter.dita"/>
+    </p>
+    <p class="- topic/p " xtrc="p:14;23:8" xtrf="file:/C:/Users/TheGi/Desktop/20230717.bankproject/backmatter.dita"/>
+    <p class="- topic/p " xtrc="p:15;24:8" xtrf="file:/C:/Users/TheGi/Desktop/20230717.bankproject/backmatter.dita"/>
+    <p class="- topic/p " xtrc="p:16;25:8" xtrf="file:/C:/Users/TheGi/Desktop/20230717.bankproject/backmatter.dita"/>
+    <p class="- topic/p " xtrc="p:17;26:8" xtrf="file:/C:/Users/TheGi/Desktop/20230717.bankproject/backmatter.dita"/>
+    
+  </body>
+</topic>

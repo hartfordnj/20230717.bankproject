@@ -17,7 +17,13 @@
     <p>Website: www.pinevistabank.xom</p>
     <p>Follow us on LinkedIn and Twitter for the latest updates.</p>
     
-    <p><image href="images/sole.png"></image></p>
+    <p outputclass="centered-image">
+      <image href="images/sole.png"></image>
+    </p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
     
   </body>
 </topic>
