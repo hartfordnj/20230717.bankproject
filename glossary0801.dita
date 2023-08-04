@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LIGHTWEIGHT DITA Topic//EN" "topic.dtd">
+<topic id="glossary0801">
+  <title>Key Financial Terms</title>
+  <body>
+    <p id="gloss_der" conref="derivatives_trading.dita#derivatives_trading/derivatives"></p>
+    <p id="gloss_fsi" conref="financial_services_integration.dita#financial_services_integration/fin_serv_integ"></p>
+    <p id="gloss_cap" conref="capital_requirements.dita#capital_requirements/capreq"></p>
+    <p id="gloss_pcaob" conref="pcaob.dita#PCAOB/pcaob_def"></p>
+    <p id="gloss_kyc" conref="kyc.dita#KYC/kyc_def"></p>
+    <p id="gloss_set" conref="settlor.dita#settlor/settlor_def"></p>
+
+  </body>
+</topic>

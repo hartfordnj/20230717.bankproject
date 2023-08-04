@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="glossary_topic">
+  <title>Glossary</title>
+  <body>
+    <dl>
+      <dlentry>
+        <dt> conre="capital_requirements.dita#capital_requirements"/></dt>
+
+      </dlentry>
+      <!-- Include other terms here -->
+    </dl>
+  </body>
+</topic>
+

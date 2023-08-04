@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossentry.dtd">
 <glossentry id="KYC">
   <glossterm>Know Your Customer (KYC)</glossterm>
-  <glossdef>Know Your Customer, commonly referred to as KYC, is a regulatory requirement for banks and other financial institutions. It mandates these organizations to verify the identity of their clients. This process typically involves gathering and analyzing official identification documents and financial records. The primary purpose of KYC is to prevent financial crimes such as money laundering, fraud, and identity theft.</glossdef>
+  <glossdef>
+    <p id="kyc_def">
+      <ph><b>Know Your Customer (KYC):</b></ph> Commonly referred to as KYC, this is a regulatory requirement for banks and other financial institutions. It mandates these organizations to verify the identity of their clients. This process typically involves gathering and analyzing official identification documents and financial records. The primary purpose of KYC is to prevent financial crimes such as money laundering, fraud, and identity theft.
+    </p>
+  </glossdef>
 </glossentry>

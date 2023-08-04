@@ -3,6 +3,9 @@
 <glossentry id="derivatives_trading">
   <glossterm>Derivatives Trading</glossterm>
   <glossdef>
-    <p>Derivatives trading refers to the buying, selling, and management of financial contracts whose value is derived from underlying assets. These contracts, known as derivatives, can be based on various asset types, including stocks, bonds, commodities, currencies, interest rates, and market indexes. The practice of trading these derivatives on exchanges and clearing them through central clearinghouses, as required by the Act, aims to increase transparency and reduce the associated financial risks.</p>
+    <p id="derivatives">
+      <ph><b>Derivatives Trading:</b></ph> This refers to the buying, selling, and management of financial contracts whose value is derived from underlying assets. These contracts, known as derivatives, can be based on various asset types, including stocks, bonds, commodities, currencies, interest rates, and market indexes. The practice of trading these derivatives on exchanges and clearing them through central clearinghouses, as required by the Act, aims to increase transparency and reduce the associated financial risks.
+    </p>
   </glossdef>
 </glossentry>
+

@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossentry.dtd">
 <glossentry id="settlor" audience="Oregon">
   <glossterm>Settlor (Oregon specific)</glossterm>
-  <glossdef>In the context of the Oregon Trust Code, a settlor, also known as a grantor or trustor, refers to the individual or entity that creates a trust within Oregon. The settlor transfers legal ownership of assets to a trustee, who then manages those assets for the benefit of the trust's beneficiaries. The settlor outlines the terms of the trust, including its purpose, the powers of the trustee, and the rights of the beneficiaries, in the trust agreement.</glossdef>
+  <glossdef>
+    <p> <note type="tip" conref="reusables/reusable_components.dita#reusable_components/oregon_note"/></p>
+    <p id="settlor_def">
+      <ph><b>Settlor (Oregon specific):</b></ph> In the context of the Oregon Trust Code, a settlor, also known as a grantor or trustor, refers to the individual or entity that creates a trust within Oregon. The settlor transfers legal ownership of assets to a trustee, who then manages those assets for the benefit of the trust's beneficiaries. The settlor outlines the terms of the trust, including its purpose, the powers of the trustee, and the rights of the beneficiaries, in the trust agreement.
+    </p>
+  </glossdef>
 </glossentry>
